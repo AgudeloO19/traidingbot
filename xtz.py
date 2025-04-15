@@ -4,6 +4,8 @@ import pandas as pd
 import time
 import os
 import logging  # 👈 AÑADE ESTA LÍNEA
+import csv
+from datetime import datetime
 
 # --- CONFIGURACIÓN DEL LOGGING (después de imports) ---
 logging.basicConfig(
@@ -35,40 +37,75 @@ def get_market_structure():
     rates = mt5.copy_rates_from_pos(SYMBOL, TIMEFRAME, 0, 100)
     if rates is None or len(rates) == 0:
         return None, None
+
     df = pd.DataFrame(rates)
-    df['close'] = df['close']
-    df['prev1'] = df['close'].shift(1)
-    df['prev2'] = df['close'].shift(2)
-    hh = df[(df['close'] > df['prev1']) & (df['prev1'] > df['prev2'])]
-    ll = df[(df['close'] < df['prev1']) & (df['prev1'] < df['prev2'])]
+    
+    # Cálculo del cuerpo (promedio entre open y close)
+    df['cuerpo'] = (df['open'] + df['close']) / 2
+    df['prev1'] = df['cuerpo'].shift(1)
+    df['prev2'] = df['cuerpo'].shift(2)
+
+    # Picos usando solo cuerpos
+    hh = df[(df['cuerpo'] > df['prev1']) & (df['prev1'] > df['prev2'])]
+    ll = df[(df['cuerpo'] < df['prev1']) & (df['prev1'] < df['prev2'])]
+
     return hh, ll
+
 
 def detectar_tendencia(hh, ll):
     global tendencia_actual
     if len(hh) < 2 or len(ll) < 2:
         return None, 0
+
     precio_actual = mt5.symbol_info_tick(SYMBOL).ask
-    ultima_hh = hh.iloc[-1]['close']
-    ultima_ll = ll.iloc[-1]['close']
+
+    # Usar el cuerpo como referencia
+    ultima_hh = hh.iloc[-1]['cuerpo']
+    ultima_ll = ll.iloc[-1]['cuerpo']
+
     nueva = None
     if precio_actual > ultima_hh:
         nueva = "alcista"
     elif precio_actual < ultima_ll:
         nueva = "bajista"
+
     if nueva and nueva != tendencia_actual:
         tendencia_actual = nueva
         return nueva, precio_actual
+
     return None, precio_actual
+
 
 # --- GUARDAR SEÑAL ---
 def guardar_senal(tendencia, precio):
-    ruta = r"C:\Users\Jorge agudelo orozco\AppData\Roaming\MetaQuotes\Terminal\D0E8209F77C8CF37AD8BF550E51FF075\MQL5\Files\senal_tendencia.txt"
+    # Ruta al archivo de texto de MetaTrader
+    ruta_txt = r"C:\Users\Ricardo\AppData\Roaming\MetaQuotes\Terminal\D0E8209F77C8CF37AD8BF550E51FF075\MQL5\Files\senal_tendencia.txt"
+
+    # Ruta al CSV donde se guarda el historial de cambios
+    ruta_csv = "cambios_tendencia_real.csv"
+
     try:
-        with open(ruta, "w") as f:
+        # Guardar la señal en el archivo TXT
+        with open(ruta_txt, "w") as f:
             f.write(f"{tendencia},{precio}")
         log(f"📝 Señal guardada: {tendencia} @ {precio}")
     except Exception as e:
-        log(f"❌ Error al guardar señal: {e}")
+        log(f"❌ Error al guardar señal TXT: {e}")
+
+    try:
+        # Añadir al CSV
+        fecha_actual = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        encabezados = ["fecha", "tendencia", "precio"]
+
+        archivo_nuevo = not os.path.exists(ruta_csv)
+        with open(ruta_csv, "a", newline='') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=encabezados)
+            if archivo_nuevo:
+                writer.writeheader()
+            writer.writerow({"fecha": fecha_actual, "tendencia": tendencia, "precio": precio})
+        log("📌 Registro de tendencia guardado en CSV")
+    except Exception as e:
+        log(f"❌ Error al guardar en CSV: {e}")
 
 # --- LOOP PRINCIPAL ---
 def run_bot():

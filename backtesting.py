@@ -3,10 +3,8 @@ import pandas as pd
 
 SYMBOL = "EURUSD"
 TIMEFRAME = mt5.TIMEFRAME_M5
-TP = 0.0010  # 10 pips
-SL = 0.0010  # 10 pips
-LOTE = 0.1   # 0.1 lotes
-VALOR_PIP_USD = 10 * LOTE  # $1 por pip con 0.1 lotes
+TP = 0.0010
+SL = 0.0010
 
 mt5.initialize(
     path="C:\\Program Files\\MetaTrader 5\\terminal64.exe",
@@ -15,7 +13,8 @@ mt5.initialize(
     server="Deriv-Demo"
 )
 
-rates = mt5.copy_rates_from_pos(SYMBOL, TIMEFRAME, 0, 100)
+# Descargar datos históricos
+rates = mt5.copy_rates_from_pos(SYMBOL, TIMEFRAME, 0, 2000)
 df = pd.DataFrame(rates)
 df['cuerpo'] = (df['open'] + df['close']) / 2
 df['prev1'] = df['cuerpo'].shift(1)
@@ -26,7 +25,7 @@ df['ll'] = (df['cuerpo'] < df['prev1']) & (df['prev1'] < df['prev2'])
 tendencia_actual = None
 resultados = []
 
-for i in range(20, len(df) - 12):
+for i in range(20, len(df) - 12):  # espacio para mirar las velas futuras
     sub_df = df.iloc[i - 20:i]
     hh = sub_df[sub_df['hh']]
     ll = sub_df[sub_df['ll']]
@@ -45,10 +44,10 @@ for i in range(20, len(df) - 12):
     elif precio_actual < ultima_ll:
         nueva = "bajista"
 
+    # SOLO operar si la tendencia es nueva (cambia respecto a la anterior)
     if nueva and nueva != tendencia_actual:
         tendencia_actual = nueva
         resultado = "sin resultado"
-        ganancia_usd = 0.0
         entry_price = precio_actual
         future_df = df.iloc[i+1:i+13]
 
@@ -56,36 +55,27 @@ for i in range(20, len(df) - 12):
             for _, row in future_df.iterrows():
                 if row['high'] >= entry_price + TP:
                     resultado = "TP"
-                    ganancia_usd = VALOR_PIP_USD * (TP / 0.0001)
                     break
                 if row['low'] <= entry_price - SL:
                     resultado = "SL"
-                    ganancia_usd = -VALOR_PIP_USD * (SL / 0.0001)
                     break
         elif nueva == "bajista":
             for _, row in future_df.iterrows():
                 if row['low'] <= entry_price - TP:
                     resultado = "TP"
-                    ganancia_usd = VALOR_PIP_USD * (TP / 0.0001)
                     break
                 if row['high'] >= entry_price + SL:
                     resultado = "SL"
-                    ganancia_usd = -VALOR_PIP_USD * (SL / 0.0001)
                     break
 
         resultados.append({
             "fecha": timestamp,
             "tendencia": nueva,
             "precio_entrada": entry_price,
-            "resultado": resultado,
-            "ganancia_usd": round(ganancia_usd, 2)
+            "resultado": resultado
         })
 
-# Guardar en CSV
+# Guardar resultados en CSV
 df_resultados = pd.DataFrame(resultados)
 df_resultados.to_csv("resultados_backtest.csv", index=False)
 print("✅ Backtesting completado. Archivo guardado como 'resultados_backtest.csv'")
-
-# Mostrar resumen final
-ganancia_total = df_resultados['ganancia_usd'].sum()
-print(f"💰 Ganancia total del sistema: ${ganancia_total:.2f} USD")

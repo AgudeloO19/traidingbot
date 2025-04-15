@@ -1,0 +1,64 @@
+2025-04-15 15:17:17,662 - \U0001f680 Iniciando bot con logging y guardado de señales...
+2025-04-15 15:17:17,758 - \U0001f4c8 Precio actual: 1.11877
+2025-04-15 15:17:17,758 - \U0001f504 Tendencia detectada: bajista
+2025-04-15 15:17:17,764 - \u274c Error al guardar señal: [Errno 2] No such file or directory: 'C:\\Users\\Jorge agudelo orozco\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075\\MQL5\\Files\\senal_tendencia.txt'
+2025-04-15 15:18:17,771 - \U0001f4c8 Precio actual: 1.12817
+2025-04-15 15:19:17,775 - \U0001f4c8 Precio actual: 1.12831
+2025-04-15 15:20:17,783 - \U0001f4c8 Precio actual: 1.12836
+2025-04-15 15:20:17,783 - \U0001f504 Tendencia detectada: alcista
+2025-04-15 15:20:17,783 - \u274c Error al guardar señal: [Errno 2] No such file or directory: 'C:\\Users\\Jorge agudelo orozco\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075\\MQL5\\Files\\senal_tendencia.txt'
+2025-04-15 15:21:17,794 - \U0001f4c8 Precio actual: 1.12835
+2025-04-15 15:22:17,807 - \U0001f4c8 Precio actual: 1.1283400000000001
+2025-04-15 15:23:17,813 - \U0001f4c8 Precio actual: 1.12827
+2025-04-15 15:23:17,817 - \U0001f504 Tendencia detectada: bajista
+2025-04-15 15:23:17,817 - \u274c Error al guardar señal: [Errno 2] No such file or directory: 'C:\\Users\\Jorge agudelo orozco\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075\\MQL5\\Files\\senal_tendencia.txt'
+2025-04-15 15:24:17,826 - \U0001f4c8 Precio actual: 1.12827
+2025-04-15 15:25:17,834 - \U0001f4c8 Precio actual: 1.12823
+2025-04-15 15:26:17,843 - \U0001f4c8 Precio actual: 1.12827
+2025-04-15 15:27:17,849 - \U0001f4c8 Precio actual: 1.12854
+2025-04-15 15:27:17,849 - \U0001f504 Tendencia detectada: alcista
+2025-04-15 15:27:17,849 - \u274c Error al guardar señal: [Errno 2] No such file or directory: 'C:\\Users\\Jorge agudelo orozco\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075\\MQL5\\Files\\senal_tendencia.txt'
+2025-04-15 15:28:17,856 - \U0001f4c8 Precio actual: 1.12878
+2025-04-15 15:29:17,866 - \U0001f4c8 Precio actual: 1.12885
+2025-04-15 15:30:17,869 - \U0001f4c8 Precio actual: 1.12887
+2025-04-15 15:31:17,879 - \U0001f4c8 Precio actual: 1.12892
+2025-04-15 15:32:17,887 - \U0001f4c8 Precio actual: 1.12901
+2025-04-15 15:33:17,888 - \U0001f4c8 Precio actual: 1.129
+2025-04-15 15:34:17,900 - \U0001f4c8 Precio actual: 1.12899
+2025-04-15 15:35:17,908 - \U0001f4c8 Precio actual: 1.12888
+2025-04-15 15:36:17,915 - \U0001f4c8 Precio actual: 1.12892
+2025-04-15 15:37:17,917 - \U0001f4c8 Precio actual: 1.12875
+2025-04-15 15:38:17,922 - \U0001f4c8 Precio actual: 1.12877
+2025-04-15 15:39:17,935 - \U0001f4c8 Precio actual: 1.12868
+2025-04-15 15:40:17,942 - \U0001f4c8 Precio actual: 1.1287
+2025-04-15 15:41:17,948 - \U0001f4c8 Precio actual: 1.12867
+2025-04-15 15:42:17,950 - \U0001f4c8 Precio actual: 1.12858
+2025-04-15 15:43:56,565 - \U0001f680 Iniciando bot con logging y guardado de señales...
+2025-04-15 15:43:56,572 - \U0001f4c8 Precio actual: 1.12854
+2025-04-15 15:44:56,586 - \U0001f4c8 Precio actual: 1.12849
+2025-04-15 15:44:56,588 - \U0001f504 Tendencia detectada: bajista
+2025-04-15 15:44:56,591 - \U0001f4dd Señal guardada: bajista @ 1.12849
+2025-04-15 15:45:56,599 - \U0001f4c8 Precio actual: 1.12846
+2025-04-15 15:46:56,608 - \U0001f4c8 Precio actual: 1.12847
+2025-04-15 15:47:56,611 - \U0001f4c8 Precio actual: 1.12835
+2025-04-15 15:48:56,623 - \U0001f4c8 Precio actual: 1.12831
+2025-04-15 15:49:56,630 - \U0001f4c8 Precio actual: 1.12836
+2025-04-15 15:50:56,632 - \U0001f4c8 Precio actual: 1.12841
+2025-04-15 16:49:52,885 - \U0001f680 Iniciando bot con logging y guardado de señales...
+2025-04-15 16:49:52,885 - \U0001f4c8 Precio actual: 1.12848
+2025-04-15 16:49:52,885 - \U0001f504 Tendencia detectada: alcista
+2025-04-15 16:49:52,896 - \U0001f4dd Señal guardada: alcista @ 1.12848
+2025-04-15 16:49:52,897 - \u274c Error al guardar en CSV: name 'datetime' is not defined
+2025-04-15 16:51:21,246 - \U0001f680 Iniciando bot con logging y guardado de señales...
+2025-04-15 16:51:21,252 - \U0001f4c8 Precio actual: 1.12846
+2025-04-15 16:51:21,252 - \U0001f504 Tendencia detectada: alcista
+2025-04-15 16:51:21,254 - \U0001f4dd Señal guardada: alcista @ 1.12846
+2025-04-15 16:51:21,254 - \u274c Error al guardar en CSV: [Errno 13] Permission denied: 'cambios_tendencia.csv'
+2025-04-15 16:52:21,259 - \U0001f4c8 Precio actual: 1.12854
+2025-04-15 16:53:22,638 - \U0001f680 Iniciando bot con logging y guardado de señales...
+2025-04-15 16:53:22,642 - \U0001f4c8 Precio actual: 1.12852
+2025-04-15 16:53:22,642 - \U0001f504 Tendencia detectada: alcista
+2025-04-15 16:53:22,642 - \U0001f4dd Señal guardada: alcista @ 1.12852
+2025-04-15 16:53:22,642 - \U0001f4cc Registro de tendencia guardado en CSV
+2025-04-15 16:54:22,646 - \U0001f4c8 Precio actual: 1.12847
+2025-04-15 16:55:22,650 - \U0001f4c8 Precio actual: 1.12847
