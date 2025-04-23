@@ -1,0 +1,2429 @@
+fecha;tendencia;precio_entrada;resultado;ganancia_usd
+8/01/2025 11:10;bajista;103.112;TP;10.0
+8/01/2025 11:50;alcista;102.933;SL;-10.0
+8/01/2025 12:10;bajista;102.895;SL;-10.0
+8/01/2025 12:35;alcista;102.954;SL;-10.0
+8/01/2025 12:45;bajista;102.853;SL;-10.0
+8/01/2025 13:10;alcista;102.886;TP;10.0
+8/01/2025 14:15;bajista;102.967;SL;-10.0
+8/01/2025 15:05;alcista;103.061;SL;-10.0
+8/01/2025 15:25;bajista;10.301;sin resultado;0.0
+8/01/2025 16:20;alcista;103.057;sin resultado;0.0
+8/01/2025 17:10;bajista;10.304;sin resultado;0.0
+8/01/2025 17:40;alcista;103.051;TP;10.0
+8/01/2025 19:40;bajista;103.117;sin resultado;0.0
+8/01/2025 20:15;alcista;103.128;sin resultado;0.0
+8/01/2025 21:20;bajista;103.162;sin resultado;0.0
+8/01/2025 21:55;alcista;103.182;sin resultado;0.0
+8/01/2025 22:10;bajista;103.167;sin resultado;0.0
+8/01/2025 22:20;alcista;103.175;sin resultado;0.0
+8/01/2025 23:05;bajista;103.169;sin resultado;0.0
+8/01/2025 23:35;alcista;103.159;SL;-10.0
+8/01/2025 23:55;bajista;103.133;sin resultado;0.0
+9/01/2025 0:55;alcista;103.131;sin resultado;0.0
+9/01/2025 1:40;bajista;103.142;sin resultado;0.0
+9/01/2025 2:05;alcista;103.162;sin resultado;0.0
+9/01/2025 2:35;bajista;103.154;sin resultado;0.0
+9/01/2025 3:00;alcista;103.169;sin resultado;0.0
+9/01/2025 3:40;bajista;103.182;TP;10.0
+9/01/2025 4:50;alcista;103.089;sin resultado;0.0
+9/01/2025 5:40;bajista;103.083;TP;10.0
+9/01/2025 6:30;alcista;103.041;sin resultado;0.0
+9/01/2025 6:55;bajista;103.002;TP;10.0
+9/01/2025 7:15;alcista;103.062;SL;-10.0
+9/01/2025 7:30;bajista;102.972;TP;10.0
+9/01/2025 8:15;alcista;102.973;TP;10.0
+9/01/2025 9:45;bajista;103.054;sin resultado;0.0
+9/01/2025 10:20;alcista;103.119;SL;-10.0
+9/01/2025 10:40;bajista;103.024;sin resultado;0.0
+9/01/2025 11:40;alcista;103.016;sin resultado;0.0
+9/01/2025 12:35;bajista;102.993;SL;-10.0
+9/01/2025 12:45;alcista;103.017;TP;10.0
+9/01/2025 13:50;bajista;103.101;sin resultado;0.0
+9/01/2025 14:50;alcista;103.096;SL;-10.0
+9/01/2025 14:55;bajista;103.074;TP;10.0
+9/01/2025 16:40;alcista;103.007;sin resultado;0.0
+9/01/2025 17:15;bajista;102.974;sin resultado;0.0
+9/01/2025 17:55;alcista;102.974;sin resultado;0.0
+9/01/2025 19:10;bajista;102.991;sin resultado;0.0
+9/01/2025 19:35;alcista;10.301;sin resultado;0.0
+9/01/2025 19:55;bajista;102.981;sin resultado;0.0
+9/01/2025 20:05;alcista;10.301;sin resultado;0.0
+9/01/2025 20:55;bajista;103.012;sin resultado;0.0
+9/01/2025 22:10;alcista;103.007;sin resultado;0.0
+9/01/2025 22:25;bajista;102.978;sin resultado;0.0
+9/01/2025 22:45;alcista;102.979;sin resultado;0.0
+9/01/2025 23:15;bajista;102.989;sin resultado;0.0
+10/01/2025 0:10;alcista;102.987;sin resultado;0.0
+10/01/2025 0:15;bajista;102.948;sin resultado;0.0
+10/01/2025 0:50;alcista;102.953;sin resultado;0.0
+10/01/2025 2:05;bajista;102.999;sin resultado;0.0
+10/01/2025 2:30;alcista;103.019;sin resultado;0.0
+10/01/2025 2:35;bajista;102.995;sin resultado;0.0
+10/01/2025 2:55;alcista;103.017;sin resultado;0.0
+10/01/2025 3:25;bajista;103.004;sin resultado;0.0
+10/01/2025 5:15;alcista;102.966;SL;-10.0
+10/01/2025 5:30;bajista;102.917;sin resultado;0.0
+10/01/2025 6:30;alcista;102.856;sin resultado;0.0
+10/01/2025 6:45;bajista;102.822;SL;-10.0
+10/01/2025 7:05;alcista;10.288;sin resultado;0.0
+10/01/2025 9:00;bajista;102.997;sin resultado;0.0
+10/01/2025 9:40;alcista;103.049;sin resultado;0.0
+10/01/2025 9:55;bajista;102.999;sin resultado;0.0
+10/01/2025 10:25;alcista;103.052;sin resultado;0.0
+10/01/2025 10:45;bajista;103.037;sin resultado;0.0
+10/01/2025 12:15;alcista;103.025;sin resultado;0.0
+10/01/2025 12:50;bajista;103.044;TP;10.0
+10/01/2025 13:00;alcista;103.074;SL;-10.0
+10/01/2025 13:05;bajista;103.038;TP;10.0
+10/01/2025 13:15;alcista;103.116;SL;-10.0
+10/01/2025 13:30;bajista;102.241;SL;-10.0
+10/01/2025 13:50;alcista;102.593;SL;-10.0
+10/01/2025 14:50;bajista;102.489;TP;10.0
+10/01/2025 15:15;alcista;102.653;TP;10.0
+10/01/2025 15:40;bajista;102.555;TP;10.0
+10/01/2025 17:05;alcista;102.434;sin resultado;0.0
+10/01/2025 18:00;bajista;102.421;sin resultado;0.0
+10/01/2025 18:40;alcista;102.411;sin resultado;0.0
+10/01/2025 19:05;bajista;102.353;SL;-10.0
+10/01/2025 19:15;alcista;10.241;sin resultado;0.0
+10/01/2025 20:10;bajista;102.417;sin resultado;0.0
+10/01/2025 20:35;alcista;102.413;sin resultado;0.0
+10/01/2025 21:30;bajista;102.451;TP;10.0
+12/01/2025 22:20;alcista;10.243;sin resultado;0.0
+12/01/2025 22:25;bajista;102.397;sin resultado;0.0
+12/01/2025 22:35;alcista;102.428;sin resultado;0.0
+12/01/2025 23:05;bajista;102.399;sin resultado;0.0
+12/01/2025 23:25;alcista;102.448;sin resultado;0.0
+12/01/2025 23:50;bajista;102.436;sin resultado;0.0
+13/01/2025 1:00;alcista;102.446;sin resultado;0.0
+13/01/2025 1:35;bajista;102.399;sin resultado;0.0
+13/01/2025 2:00;alcista;102.429;sin resultado;0.0
+13/01/2025 2:10;bajista;1.024;sin resultado;0.0
+13/01/2025 2:25;alcista;102.448;SL;-10.0
+13/01/2025 2:45;bajista;102.397;TP;10.0
+13/01/2025 4:55;alcista;102.118;sin resultado;0.0
+13/01/2025 6:45;bajista;102.164;sin resultado;0.0
+13/01/2025 7:00;alcista;10.221;SL;-10.0
+13/01/2025 7:15;bajista;10.216;SL;-10.0
+13/01/2025 7:45;alcista;102.212;TP;10.0
+13/01/2025 8:30;bajista;102.231;TP;10.0
+13/01/2025 9:10;alcista;10.221;SL;-10.0
+13/01/2025 9:15;bajista;102.175;TP;10.0
+13/01/2025 9:45;alcista;101.987;sin resultado;0.0
+13/01/2025 10:35;bajista;101.989;TP;10.0
+13/01/2025 11:35;alcista;102.006;SL;-10.0
+13/01/2025 11:55;bajista;101.959;SL;-10.0
+13/01/2025 12:20;alcista;101.959;TP;10.0
+13/01/2025 12:25;bajista;101.888;SL;-10.0
+13/01/2025 12:40;alcista;101.944;TP;10.0
+13/01/2025 13:50;bajista;102.093;sin resultado;0.0
+13/01/2025 14:20;alcista;102.111;SL;-10.0
+13/01/2025 14:45;bajista;102.041;sin resultado;0.0
+13/01/2025 15:45;alcista;102.046;SL;-10.0
+13/01/2025 15:55;bajista;101.969;SL;-10.0
+13/01/2025 16:20;alcista;102.007;TP;10.0
+13/01/2025 17:00;bajista;102.107;sin resultado;0.0
+13/01/2025 17:15;alcista;102.159;sin resultado;0.0
+13/01/2025 18:05;bajista;102.143;sin resultado;0.0
+13/01/2025 18:40;alcista;102.185;sin resultado;0.0
+13/01/2025 19:00;bajista;102.126;sin resultado;0.0
+13/01/2025 20:10;alcista;10.213;sin resultado;0.0
+13/01/2025 23:05;bajista;102.555;SL;-10.0
+13/01/2025 23:20;alcista;102.653;TP;10.0
+13/01/2025 23:50;bajista;102.658;TP;10.0
+14/01/2025 1:55;alcista;102.491;SL;-10.0
+14/01/2025 2:05;bajista;102.426;sin resultado;0.0
+14/01/2025 2:55;alcista;102.446;TP;10.0
+14/01/2025 3:45;bajista;102.496;sin resultado;0.0
+14/01/2025 4:30;alcista;102.537;SL;-10.0
+14/01/2025 4:50;bajista;102.515;sin resultado;0.0
+14/01/2025 5:40;alcista;102.492;sin resultado;0.0
+14/01/2025 6:50;bajista;102.458;SL;-10.0
+14/01/2025 6:55;alcista;102.527;TP;10.0
+14/01/2025 7:20;bajista;102.575;SL;-10.0
+14/01/2025 8:10;alcista;10.261;TP;10.0
+14/01/2025 8:50;bajista;102.634;TP;10.0
+14/01/2025 9:40;alcista;102.621;SL;-10.0
+14/01/2025 10:15;bajista;102.578;sin resultado;0.0
+14/01/2025 10:50;alcista;102.599;sin resultado;0.0
+14/01/2025 11:50;bajista;102.551;TP;10.0
+14/01/2025 12:30;alcista;102.533;SL;-10.0
+14/01/2025 12:45;bajista;102.525;TP;10.0
+14/01/2025 13:30;alcista;10.253;TP;10.0
+14/01/2025 16:25;bajista;102.862;sin resultado;0.0
+14/01/2025 16:55;alcista;102.914;SL;-10.0
+14/01/2025 17:05;bajista;102.819;sin resultado;0.0
+14/01/2025 17:35;alcista;102.878;TP;10.0
+14/01/2025 17:45;bajista;10.284.200.000.000.000;SL;-10.0
+14/01/2025 17:55;alcista;102.882;TP;10.0
+14/01/2025 19:10;bajista;102.976;sin resultado;0.0
+14/01/2025 19:15;alcista;102.998;sin resultado;0.0
+14/01/2025 19:55;bajista;102.981;SL;-10.0
+14/01/2025 20:15;alcista;102.988;sin resultado;0.0
+14/01/2025 20:45;bajista;103.045;sin resultado;0.0
+14/01/2025 21:15;alcista;103.043;sin resultado;0.0
+14/01/2025 22:10;bajista;10.303;sin resultado;0.0
+14/01/2025 22:25;alcista;103.067;sin resultado;0.0
+14/01/2025 23:05;bajista;103.056;sin resultado;0.0
+14/01/2025 23:10;alcista;103.077;sin resultado;0.0
+14/01/2025 23:20;bajista;103.057;sin resultado;0.0
+15/01/2025 0:50;alcista;103.017;sin resultado;0.0
+15/01/2025 1:25;bajista;103.005;sin resultado;0.0
+15/01/2025 2:05;alcista;103.004;sin resultado;0.0
+15/01/2025 2:10;bajista;102.993;sin resultado;0.0
+15/01/2025 2:20;alcista;103.008;sin resultado;0.0
+15/01/2025 2:30;bajista;102.981;sin resultado;0.0
+15/01/2025 3:05;alcista;102.998;sin resultado;0.0
+15/01/2025 4:00;bajista;102.991;sin resultado;0.0
+15/01/2025 4:30;alcista;103.008;sin resultado;0.0
+15/01/2025 5:30;bajista;102.994;sin resultado;0.0
+15/01/2025 6:30;alcista;102.976;SL;-10.0
+15/01/2025 6:50;bajista;102.956;SL;-10.0
+15/01/2025 7:30;alcista;102.957;TP;10.0
+15/01/2025 8:25;bajista;103.017;sin resultado;0.0
+15/01/2025 9:15;alcista;103.058;sin resultado;0.0
+15/01/2025 10:10;bajista;1.031;sin resultado;0.0
+15/01/2025 10:55;alcista;103.075;sin resultado;0.0
+15/01/2025 11:30;bajista;103.051;sin resultado;0.0
+15/01/2025 12:05;alcista;103.048;SL;-10.0
+15/01/2025 12:40;bajista;103.019;SL;-10.0
+15/01/2025 13:25;alcista;103.023;TP;10.0
+15/01/2025 14:10;bajista;103.339;SL;-10.0
+15/01/2025 14:25;alcista;10.340.799.999.999.900;SL;-10.0
+15/01/2025 14:35;bajista;103.307;TP;10.0
+15/01/2025 15:25;alcista;103.263;SL;-10.0
+15/01/2025 15:40;bajista;103.147;TP;10.0
+15/01/2025 16:50;alcista;102.787;TP;10.0
+15/01/2025 17:50;bajista;102.849;sin resultado;0.0
+15/01/2025 18:15;alcista;102.912;sin resultado;0.0
+15/01/2025 19:10;bajista;102.907;sin resultado;0.0
+15/01/2025 19:25;alcista;102.927;sin resultado;0.0
+15/01/2025 19:30;bajista;102.908;sin resultado;0.0
+15/01/2025 19:35;alcista;102.942;sin resultado;0.0
+15/01/2025 19:40;bajista;102.908;sin resultado;0.0
+15/01/2025 19:45;alcista;102.937;sin resultado;0.0
+15/01/2025 20:05;bajista;102.923;sin resultado;0.0
+15/01/2025 20:10;alcista;102.928;sin resultado;0.0
+15/01/2025 21:00;bajista;102.956;TP;10.0
+15/01/2025 22:15;alcista;102.909;sin resultado;0.0
+15/01/2025 23:15;bajista;102.917;sin resultado;0.0
+15/01/2025 23:20;alcista;102.937;sin resultado;0.0
+16/01/2025 0:15;bajista;102.917;sin resultado;0.0
+16/01/2025 0:30;alcista;10.298;SL;-10.0
+16/01/2025 0:45;bajista;102.888;SL;-10.0
+16/01/2025 0:55;alcista;10.299;SL;-10.0
+16/01/2025 1:15;bajista;102.939;sin resultado;0.0
+16/01/2025 1:40;alcista;102.974;SL;-10.0
+16/01/2025 1:50;bajista;102.896;sin resultado;0.0
+16/01/2025 2:35;alcista;102.886;sin resultado;0.0
+16/01/2025 3:00;bajista;10.286;sin resultado;0.0
+16/01/2025 3:50;alcista;102.875;sin resultado;0.0
+16/01/2025 4:20;bajista;102.919;sin resultado;0.0
+16/01/2025 6:05;alcista;102.835;TP;10.0
+16/01/2025 7:50;bajista;102.963;sin resultado;0.0
+16/01/2025 8:00;alcista;102.994;SL;-10.0
+16/01/2025 8:10;bajista;102.927;sin resultado;0.0
+16/01/2025 8:45;alcista;102.957;SL;-10.0
+16/01/2025 9:00;bajista;10.291;sin resultado;0.0
+16/01/2025 9:20;alcista;102.981;SL;-10.0
+16/01/2025 9:35;bajista;10.291;sin resultado;0.0
+16/01/2025 10:05;alcista;102.868;sin resultado;0.0
+16/01/2025 10:50;bajista;10.288;sin resultado;0.0
+16/01/2025 11:25;alcista;102.881;SL;-10.0
+16/01/2025 12:00;bajista;102.872;TP;10.0
+16/01/2025 12:55;alcista;102.718;SL;-10.0
+16/01/2025 13:15;bajista;102.657;SL;-10.0
+16/01/2025 13:30;alcista;102.743;TP;10.0
+16/01/2025 14:10;bajista;102.728;SL;-10.0
+16/01/2025 14:25;alcista;102.747;TP;10.0
+16/01/2025 14:30;bajista;102.721;SL;-10.0
+16/01/2025 14:40;alcista;102.773;TP;10.0
+16/01/2025 15:50;bajista;102.988;SL;-10.0
+16/01/2025 16:00;alcista;103.073;SL;-10.0
+16/01/2025 16:10;bajista;10.292;SL;-10.0
+16/01/2025 16:30;alcista;103.104;SL;-10.0
+16/01/2025 17:00;bajista;10.302;SL;-10.0
+16/01/2025 17:15;alcista;103.126;SL;-10.0
+16/01/2025 17:40;bajista;103.028;sin resultado;0.0
+16/01/2025 18:15;alcista;103.011;sin resultado;0.0
+16/01/2025 18:30;bajista;102.955;SL;-10.0
+16/01/2025 19:00;alcista;10.303;sin resultado;0.0
+16/01/2025 19:30;bajista;103.006;sin resultado;0.0
+16/01/2025 20:25;alcista;103.013;sin resultado;0.0
+16/01/2025 20:45;bajista;102.997;sin resultado;0.0
+16/01/2025 21:25;alcista;102.997;sin resultado;0.0
+16/01/2025 21:55;bajista;102.969;sin resultado;0.0
+16/01/2025 22:20;alcista;10.302;sin resultado;0.0
+16/01/2025 22:55;bajista;103.012;sin resultado;0.0
+16/01/2025 23:05;alcista;103.018;sin resultado;0.0
+16/01/2025 23:35;bajista;103.008;sin resultado;0.0
+17/01/2025 0:30;alcista;103.031;sin resultado;0.0
+17/01/2025 1:15;bajista;103.028;sin resultado;0.0
+17/01/2025 1:40;alcista;103.073;sin resultado;0.0
+17/01/2025 2:35;bajista;103.058;sin resultado;0.0
+17/01/2025 3:40;alcista;10.303;sin resultado;0.0
+17/01/2025 3:50;bajista;103.006;sin resultado;0.0
+17/01/2025 5:05;alcista;102.947;sin resultado;0.0
+17/01/2025 5:15;bajista;102.924;sin resultado;0.0
+17/01/2025 5:55;alcista;102.932;sin resultado;0.0
+17/01/2025 6:15;bajista;102.874;sin resultado;0.0
+17/01/2025 6:40;alcista;102.877;SL;-10.0
+17/01/2025 7:10;bajista;102.839;sin resultado;0.0
+17/01/2025 7:50;alcista;102.879;TP;10.0
+17/01/2025 9:20;bajista;102.956;sin resultado;0.0
+17/01/2025 10:00;alcista;102.994;sin resultado;0.0
+17/01/2025 11:35;bajista;103.025;sin resultado;0.0
+17/01/2025 12:10;alcista;103.051;SL;-10.0
+17/01/2025 12:40;bajista;102.956;TP;10.0
+17/01/2025 13:40;alcista;102.955;SL;-10.0
+17/01/2025 13:50;bajista;102.871;TP;10.0
+17/01/2025 14:40;alcista;102.845;TP;10.0
+17/01/2025 15:30;bajista;103.066;TP;10.0
+17/01/2025 16:25;alcista;10.294;SL;-10.0
+17/01/2025 16:50;bajista;102.921;TP;10.0
+17/01/2025 18:15;alcista;102.884;SL;-10.0
+17/01/2025 18:35;bajista;102.833;sin resultado;0.0
+17/01/2025 19:55;alcista;102.763;sin resultado;0.0
+17/01/2025 20:45;bajista;102.753;sin resultado;0.0
+17/01/2025 21:40;alcista;102.719;sin resultado;0.0
+17/01/2025 21:45;bajista;102.695;SL;-10.0
+19/01/2025 22:05;alcista;102.745;sin resultado;0.0
+19/01/2025 22:35;bajista;102.746;sin resultado;0.0
+19/01/2025 22:55;alcista;102.784;SL;-10.0
+19/01/2025 23:00;bajista;102.734;sin resultado;0.0
+19/01/2025 23:45;alcista;102.751;TP;10.0
+20/01/2025 1:15;bajista;102.809;SL;-10.0
+20/01/2025 1:45;alcista;102.864;sin resultado;0.0
+20/01/2025 2:25;bajista;102.875;sin resultado;0.0
+20/01/2025 2:35;alcista;102.918;sin resultado;0.0
+20/01/2025 4:25;bajista;103.035;sin resultado;0.0
+20/01/2025 4:50;alcista;103.029;sin resultado;0.0
+20/01/2025 5:15;bajista;103.028;sin resultado;0.0
+20/01/2025 5:35;alcista;103.044;sin resultado;0.0
+20/01/2025 5:55;bajista;103.025;SL;-10.0
+20/01/2025 6:25;alcista;103.063;TP;10.0
+20/01/2025 7:10;bajista;103.079;SL;-10.0
+20/01/2025 7:35;alcista;10.312;sin resultado;0.0
+20/01/2025 8:15;bajista;103.127;sin resultado;0.0
+20/01/2025 9:00;alcista;103.131;sin resultado;0.0
+20/01/2025 9:15;bajista;103.067;SL;-10.0
+20/01/2025 9:40;alcista;103.092;TP;10.0
+20/01/2025 9:55;bajista;103.061;SL;-10.0
+20/01/2025 10:00;alcista;103.121;TP;10.0
+20/01/2025 10:50;bajista;103.142;SL;-10.0
+20/01/2025 11:10;alcista;103.227;sin resultado;0.0
+20/01/2025 12:10;bajista;103.201;sin resultado;0.0
+20/01/2025 12:40;alcista;103.225;SL;-10.0
+20/01/2025 13:00;bajista;103.174;SL;-10.0
+20/01/2025 13:30;alcista;103.971;SL;-10.0
+20/01/2025 15:25;bajista;104.032;TP;10.0
+20/01/2025 16:00;alcista;104.003;SL;-10.0
+20/01/2025 16:15;bajista;103.927;SL;-10.0
+20/01/2025 16:25;alcista;104.025;SL;-10.0
+20/01/2025 16:50;bajista;103.986;TP;10.0
+20/01/2025 18:50;alcista;103.877;TP;10.0
+20/01/2025 19:15;bajista;103.936;SL;-10.0
+20/01/2025 19:35;alcista;103.959;TP;10.0
+20/01/2025 20:25;bajista;104.142;SL;-10.0
+20/01/2025 21:10;alcista;104.187;SL;-10.0
+20/01/2025 21:20;bajista;104.143;sin resultado;0.0
+20/01/2025 21:55;alcista;104.158;sin resultado;0.0
+20/01/2025 22:00;bajista;104.105;sin resultado;0.0
+20/01/2025 22:05;alcista;104.144;TP;10.0
+20/01/2025 22:25;bajista;104.135;SL;-10.0
+20/01/2025 23:00;alcista;104.164;TP;10.0
+20/01/2025 23:35;bajista;104.136;SL;-10.0
+20/01/2025 23:45;alcista;104.231;TP;10.0
+21/01/2025 0:35;bajista;104.204;TP;10.0
+21/01/2025 1:15;alcista;103.766;TP;10.0
+21/01/2025 1:40;bajista;103.642;SL;-10.0
+21/01/2025 2:00;alcista;103.808;TP;10.0
+21/01/2025 3:35;bajista;103.917;sin resultado;0.0
+21/01/2025 4:20;alcista;103.975;SL;-10.0
+21/01/2025 4:40;bajista;103.905;sin resultado;0.0
+21/01/2025 5:00;alcista;103.915;SL;-10.0
+21/01/2025 5:05;bajista;1.039;TP;10.0
+21/01/2025 7:10;alcista;103.755;TP;10.0
+21/01/2025 7:50;bajista;103.793;TP;10.0
+21/01/2025 9:55;alcista;103.536;SL;-10.0
+21/01/2025 10:10;bajista;103.456;SL;-10.0
+21/01/2025 10:25;alcista;103.546;sin resultado;0.0
+21/01/2025 11:00;bajista;10.348.600.000.000.000;sin resultado;0.0
+21/01/2025 11:10;alcista;103.539;SL;-10.0
+21/01/2025 11:20;bajista;10.348.600.000.000.000;sin resultado;0.0
+21/01/2025 11:45;alcista;103.539;sin resultado;0.0
+21/01/2025 12:05;bajista;103.504;sin resultado;0.0
+21/01/2025 12:25;alcista;103.562;SL;-10.0
+21/01/2025 12:45;bajista;10.348;SL;-10.0
+21/01/2025 13:00;alcista;10.357;TP;10.0
+21/01/2025 15:00;bajista;10.385;SL;-10.0
+21/01/2025 15:10;alcista;103.894;TP;10.0
+21/01/2025 15:55;bajista;104.006;SL;-10.0
+21/01/2025 16:05;alcista;104.054;TP;10.0
+21/01/2025 17:40;bajista;104.263;sin resultado;0.0
+21/01/2025 18:20;alcista;10.425;TP;10.0
+21/01/2025 19:00;bajista;104.285;TP;10.0
+21/01/2025 20:05;alcista;104.212;sin resultado;0.0
+21/01/2025 20:45;bajista;104.173;SL;-10.0
+21/01/2025 20:55;alcista;104.201;sin resultado;0.0
+21/01/2025 22:05;bajista;104.247;TP;10.0
+21/01/2025 22:30;alcista;104.263;SL;-10.0
+21/01/2025 23:00;bajista;104.042;SL;-10.0
+21/01/2025 23:25;alcista;104.071;TP;10.0
+22/01/2025 1:00;bajista;104.164;sin resultado;0.0
+22/01/2025 2:40;alcista;104.127;sin resultado;0.0
+22/01/2025 3:45;bajista;104.102;SL;-10.0
+22/01/2025 4:05;alcista;104.138;sin resultado;0.0
+22/01/2025 4:55;bajista;104.172;sin resultado;0.0
+22/01/2025 5:45;alcista;104.139;SL;-10.0
+22/01/2025 6:10;bajista;104.106;TP;10.0
+22/01/2025 7:05;alcista;104.125;sin resultado;0.0
+22/01/2025 8:00;bajista;104.096;SL;-10.0
+22/01/2025 8:15;alcista;104.158;TP;10.0
+22/01/2025 10:45;bajista;104.524;TP;10.0
+22/01/2025 11:05;alcista;104.552;SL;-10.0
+22/01/2025 11:25;bajista;104.458;TP;10.0
+22/01/2025 12:50;alcista;104.372;SL;-10.0
+22/01/2025 13:25;bajista;104.355;TP;10.0
+22/01/2025 13:55;alcista;104.317;SL;-10.0
+22/01/2025 14:00;bajista;104.254;TP;10.0
+22/01/2025 16:05;alcista;104.218;sin resultado;0.0
+22/01/2025 16:15;bajista;104.167;sin resultado;0.0
+22/01/2025 16:35;alcista;104.211;sin resultado;0.0
+22/01/2025 17:10;bajista;104.148;sin resultado;0.0
+22/01/2025 18:20;alcista;104.186;sin resultado;0.0
+22/01/2025 18:50;bajista;104.183;sin resultado;0.0
+22/01/2025 19:05;alcista;104.202;sin resultado;0.0
+22/01/2025 19:40;bajista;104.197;sin resultado;0.0
+22/01/2025 20:05;alcista;104.222;SL;-10.0
+22/01/2025 20:30;bajista;10.419.100.000.000.000;TP;10.0
+22/01/2025 21:50;alcista;104.101;sin resultado;0.0
+22/01/2025 21:55;bajista;104.084;sin resultado;0.0
+22/01/2025 22:00;alcista;104.101;sin resultado;0.0
+22/01/2025 22:10;bajista;104.078;sin resultado;0.0
+22/01/2025 22:30;alcista;104.101;sin resultado;0.0
+22/01/2025 23:00;bajista;104.069;sin resultado;0.0
+22/01/2025 23:50;alcista;104.083;sin resultado;0.0
+23/01/2025 0:35;bajista;104.084;sin resultado;0.0
+23/01/2025 0:55;alcista;104.103;sin resultado;0.0
+23/01/2025 1:20;bajista;104.085;TP;10.0
+23/01/2025 2:20;alcista;104.053;sin resultado;0.0
+23/01/2025 2:45;bajista;104.026;sin resultado;0.0
+23/01/2025 3:05;alcista;104.053;sin resultado;0.0
+23/01/2025 5:00;bajista;104.075;sin resultado;0.0
+23/01/2025 6:00;alcista;104.084;sin resultado;0.0
+23/01/2025 6:40;bajista;104.067;TP;10.0
+23/01/2025 7:55;alcista;104.002;SL;-10.0
+23/01/2025 8:25;bajista;103.955;SL;-10.0
+23/01/2025 9:00;alcista;104.033;TP;10.0
+23/01/2025 10:55;bajista;10.411.299.999.999.900;TP;10.0
+23/01/2025 11:15;alcista;104.116;SL;-10.0
+23/01/2025 11:45;bajista;104.034;sin resultado;0.0
+23/01/2025 12:40;alcista;104.006;TP;10.0
+23/01/2025 14:35;bajista;104.078;TP;10.0
+23/01/2025 16:00;alcista;103.983;SL;-10.0
+23/01/2025 17:00;bajista;104.196;SL;-10.0
+23/01/2025 17:30;alcista;10.422;TP;10.0
+23/01/2025 18:15;bajista;104.322;TP;10.0
+23/01/2025 19:25;alcista;10.423.499.999.999.900;sin resultado;0.0
+23/01/2025 20:00;bajista;10.422;sin resultado;0.0
+23/01/2025 20:05;alcista;104.247;sin resultado;0.0
+23/01/2025 20:30;bajista;104.215;sin resultado;0.0
+23/01/2025 22:30;alcista;104.166;sin resultado;0.0
+23/01/2025 22:45;bajista;104.147;sin resultado;0.0
+23/01/2025 23:30;alcista;104.166;sin resultado;0.0
+23/01/2025 23:45;bajista;104.148;sin resultado;0.0
+24/01/2025 0:00;alcista;104.163;sin resultado;0.0
+24/01/2025 1:00;bajista;104.181;sin resultado;0.0
+24/01/2025 1:55;alcista;104.157;TP;10.0
+24/01/2025 3:15;bajista;104.407;sin resultado;0.0
+24/01/2025 3:35;alcista;104.454;sin resultado;0.0
+24/01/2025 4:40;bajista;104.448;sin resultado;0.0
+24/01/2025 5:00;alcista;104.516;sin resultado;0.0
+24/01/2025 5:25;bajista;104.458;SL;-10.0
+24/01/2025 5:55;alcista;104.514;TP;10.0
+24/01/2025 6:55;bajista;104.573;TP;10.0
+24/01/2025 7:45;alcista;104.582;TP;10.0
+24/01/2025 9:40;bajista;10.495.700.000.000.000;sin resultado;0.0
+24/01/2025 10:05;alcista;104.946;sin resultado;0.0
+24/01/2025 10:15;bajista;104.917;sin resultado;0.0
+24/01/2025 11:50;alcista;104.886;SL;-10.0
+24/01/2025 12:00;bajista;104.827;TP;10.0
+24/01/2025 12:25;alcista;104.868;SL;-10.0
+24/01/2025 12:45;bajista;104.766;TP;10.0
+24/01/2025 14:05;alcista;104.739;TP;10.0
+24/01/2025 16:10;bajista;105.144;sin resultado;0.0
+24/01/2025 16:30;alcista;105.145;sin resultado;0.0
+24/01/2025 16:40;bajista;105.136;sin resultado;0.0
+24/01/2025 16:55;alcista;105.147;sin resultado;0.0
+24/01/2025 17:45;bajista;105.108;TP;10.0
+24/01/2025 19:25;alcista;104.952;sin resultado;0.0
+24/01/2025 20:00;bajista;104.919;sin resultado;0.0
+24/01/2025 20:20;alcista;104.949;sin resultado;0.0
+24/01/2025 20:30;bajista;104.903;sin resultado;0.0
+24/01/2025 20:50;alcista;10.492;sin resultado;0.0
+24/01/2025 21:25;bajista;104.944;TP;10.0
+26/01/2025 22:25;alcista;104.831;SL;-10.0
+26/01/2025 22:55;bajista;104.824;TP;10.0
+27/01/2025 0:20;alcista;104.743;sin resultado;0.0
+27/01/2025 0:40;bajista;104.722;TP;10.0
+27/01/2025 0:50;alcista;104.749;SL;-10.0
+27/01/2025 1:25;bajista;104.721;TP;10.0
+27/01/2025 2:40;alcista;104.634;TP;10.0
+27/01/2025 3:40;bajista;104.674;sin resultado;0.0
+27/01/2025 5:40;alcista;104.605;sin resultado;0.0
+27/01/2025 6:05;bajista;104.598;sin resultado;0.0
+27/01/2025 6:25;alcista;104.637;sin resultado;0.0
+27/01/2025 6:40;bajista;104.587;SL;-10.0
+27/01/2025 7:00;alcista;104.605;TP;10.0
+27/01/2025 7:05;bajista;10.454;SL;-10.0
+27/01/2025 7:25;alcista;104.618;TP;10.0
+27/01/2025 9:20;bajista;104.806;SL;-10.0
+27/01/2025 9:50;alcista;104.886;TP;10.0
+27/01/2025 11:45;bajista;105.092;sin resultado;0.0
+27/01/2025 12:00;alcista;10.517;TP;10.0
+27/01/2025 12:20;bajista;105.092;SL;-10.0
+27/01/2025 12:35;alcista;105.163;TP;10.0
+27/01/2025 13:20;bajista;10.512;SL;-10.0
+27/01/2025 13:40;alcista;105.218;SL;-10.0
+27/01/2025 14:20;bajista;105.176;TP;10.0
+27/01/2025 15:20;alcista;105.077;SL;-10.0
+27/01/2025 15:25;bajista;105.029;sin resultado;0.0
+27/01/2025 15:55;alcista;104.992;SL;-10.0
+27/01/2025 16:35;bajista;104.929;sin resultado;0.0
+27/01/2025 17:20;alcista;104.944;sin resultado;0.0
+27/01/2025 17:35;bajista;104.874;sin resultado;0.0
+27/01/2025 17:45;alcista;104.922;SL;-10.0
+27/01/2025 18:15;bajista;104.874;sin resultado;0.0
+27/01/2025 18:45;alcista;104.866;sin resultado;0.0
+27/01/2025 19:00;bajista;104.833;sin resultado;0.0
+27/01/2025 19:25;alcista;104.875;sin resultado;0.0
+27/01/2025 20:50;bajista;104.888;sin resultado;0.0
+27/01/2025 21:15;alcista;104.897;sin resultado;0.0
+27/01/2025 22:50;bajista;104.917;TP;10.0
+27/01/2025 23:50;alcista;104.446;SL;-10.0
+28/01/2025 1:40;bajista;104.487;TP;10.0
+28/01/2025 2:20;alcista;104.366;sin resultado;0.0
+28/01/2025 2:45;bajista;10.432;sin resultado;0.0
+28/01/2025 3:00;alcista;104.372;sin resultado;0.0
+28/01/2025 3:20;bajista;104.324;sin resultado;0.0
+28/01/2025 3:25;alcista;10.437.400.000.000.000;sin resultado;0.0
+28/01/2025 3:45;bajista;10.433;sin resultado;0.0
+28/01/2025 4:50;alcista;104.327;sin resultado;0.0
+28/01/2025 5:45;bajista;104.372;sin resultado;0.0
+28/01/2025 6:00;alcista;104.405;sin resultado;0.0
+28/01/2025 6:35;bajista;104.401;sin resultado;0.0
+28/01/2025 7:25;alcista;104.414;SL;-10.0
+28/01/2025 7:30;bajista;104.379;TP;10.0
+28/01/2025 8:40;alcista;104.331;SL;-10.0
+28/01/2025 8:50;bajista;10.425;SL;-10.0
+28/01/2025 9:10;alcista;104.328;TP;10.0
+28/01/2025 9:45;bajista;10.436;sin resultado;0.0
+28/01/2025 10:35;alcista;104.336;SL;-10.0
+28/01/2025 10:45;bajista;104.305;sin resultado;0.0
+28/01/2025 11:10;alcista;104.324;SL;-10.0
+28/01/2025 11:25;bajista;104.279;TP;10.0
+28/01/2025 12:40;alcista;104.228;sin resultado;0.0
+28/01/2025 13:00;bajista;104.198;SL;-10.0
+28/01/2025 13:10;alcista;104.233;sin resultado;0.0
+28/01/2025 14:50;bajista;104.303;sin resultado;0.0
+28/01/2025 15:05;alcista;104.373;SL;-10.0
+28/01/2025 15:40;bajista;104.312;TP;10.0
+28/01/2025 17:00;alcista;104.254;sin resultado;0.0
+28/01/2025 18:10;bajista;104.285;sin resultado;0.0
+28/01/2025 18:20;alcista;104.324;sin resultado;0.0
+28/01/2025 18:40;bajista;104.253;sin resultado;0.0
+28/01/2025 19:25;alcista;104.271;sin resultado;0.0
+28/01/2025 20:35;bajista;104.316;sin resultado;0.0
+28/01/2025 21:10;alcista;104.331;sin resultado;0.0
+28/01/2025 21:25;bajista;104.306;sin resultado;0.0
+28/01/2025 22:20;alcista;104.286;sin resultado;0.0
+28/01/2025 22:35;bajista;104.287;sin resultado;0.0
+28/01/2025 23:25;alcista;104.297;sin resultado;0.0
+28/01/2025 23:45;bajista;104.278;sin resultado;0.0
+29/01/2025 0:00;alcista;104.317;sin resultado;0.0
+29/01/2025 0:25;bajista;10.432;sin resultado;0.0
+29/01/2025 1:20;alcista;104.316;sin resultado;0.0
+29/01/2025 1:40;bajista;104.305;sin resultado;0.0
+29/01/2025 2:10;alcista;104.317;sin resultado;0.0
+29/01/2025 3:15;bajista;10.433;sin resultado;0.0
+29/01/2025 3:20;alcista;104.349;sin resultado;0.0
+29/01/2025 4:40;bajista;104.381;sin resultado;0.0
+29/01/2025 5:20;alcista;104.405;sin resultado;0.0
+29/01/2025 5:35;bajista;104.376;sin resultado;0.0
+29/01/2025 5:55;alcista;104.403;sin resultado;0.0
+29/01/2025 6:50;bajista;104.394;TP;10.0
+29/01/2025 8:05;alcista;104.234;SL;-10.0
+29/01/2025 8:55;bajista;104.244;TP;10.0
+29/01/2025 10:30;alcista;104.077;sin resultado;0.0
+29/01/2025 10:45;bajista;104.016;sin resultado;0.0
+29/01/2025 11:05;alcista;104.041;sin resultado;0.0
+29/01/2025 11:35;bajista;104.002;sin resultado;0.0
+29/01/2025 12:40;alcista;104.028;SL;-10.0
+29/01/2025 13:10;bajista;10.392;sin resultado;0.0
+29/01/2025 13:35;alcista;103.908;sin resultado;0.0
+29/01/2025 13:45;bajista;103.843;SL;-10.0
+29/01/2025 14:00;alcista;103.902;TP;10.0
+29/01/2025 14:45;bajista;103.951;SL;-10.0
+29/01/2025 14:55;alcista;104.013;TP;10.0
+29/01/2025 16:05;bajista;104.124;SL;-10.0
+29/01/2025 17:00;alcista;104.259;SL;-10.0
+29/01/2025 17:30;bajista;104.195;sin resultado;0.0
+29/01/2025 18:05;alcista;104.225;SL;-10.0
+29/01/2025 18:35;bajista;104.212;TP;10.0
+29/01/2025 19:50;alcista;104.212;SL;-10.0
+29/01/2025 20:35;bajista;104.114;sin resultado;0.0
+29/01/2025 21:05;alcista;10.413.000.000.000.000;sin resultado;0.0
+29/01/2025 23:10;bajista;104.197;sin resultado;0.0
+29/01/2025 23:20;alcista;104.221;sin resultado;0.0
+30/01/2025 0:30;bajista;104.249;sin resultado;0.0
+30/01/2025 1:50;alcista;104.219;sin resultado;0.0
+30/01/2025 1:55;bajista;1.042;sin resultado;0.0
+30/01/2025 2:05;alcista;10.425;sin resultado;0.0
+30/01/2025 2:35;bajista;104.218;sin resultado;0.0
+30/01/2025 2:50;alcista;104.251;sin resultado;0.0
+30/01/2025 2:55;bajista;10.423;sin resultado;0.0
+30/01/2025 3:05;alcista;104.241;sin resultado;0.0
+30/01/2025 4:25;bajista;104.237;sin resultado;0.0
+30/01/2025 5:25;alcista;104.202;sin resultado;0.0
+30/01/2025 5:40;bajista;104.188;sin resultado;0.0
+30/01/2025 5:55;alcista;10.422;SL;-10.0
+30/01/2025 6:10;bajista;10.417.399.999.999.900;sin resultado;0.0
+30/01/2025 6:50;alcista;104.145;sin resultado;0.0
+30/01/2025 7:00;bajista;10.411.299.999.999.900;SL;-10.0
+30/01/2025 7:25;alcista;104.145;TP;10.0
+30/01/2025 8:35;bajista;104.193;TP;10.0
+30/01/2025 8:45;alcista;104.239;SL;-10.0
+30/01/2025 8:50;bajista;1.042;TP;10.0
+30/01/2025 9:30;alcista;104.114;sin resultado;0.0
+30/01/2025 9:35;bajista;104.036;sin resultado;0.0
+30/01/2025 9:55;alcista;104.076;SL;-10.0
+30/01/2025 10:00;bajista;104.038;sin resultado;0.0
+30/01/2025 10:05;alcista;104.076;SL;-10.0
+30/01/2025 10:40;bajista;104.064;TP;10.0
+30/01/2025 11:40;alcista;103.985;sin resultado;0.0
+30/01/2025 11:55;bajista;103.918;SL;-10.0
+30/01/2025 12:15;alcista;103.969;TP;10.0
+30/01/2025 13:05;bajista;104.023;SL;-10.0
+30/01/2025 13:15;alcista;104.046;TP;10.0
+30/01/2025 14:15;bajista;104.318;TP;10.0
+30/01/2025 15:00;alcista;104.348;sin resultado;0.0
+30/01/2025 15:35;bajista;104.289;SL;-10.0
+30/01/2025 17:15;alcista;104.199;sin resultado;0.0
+30/01/2025 20:05;bajista;104.268;TP;10.0
+30/01/2025 20:15;alcista;104.299;SL;-10.0
+30/01/2025 20:35;bajista;103.938;SL;-10.0
+30/01/2025 20:55;alcista;104.076;SL;-10.0
+30/01/2025 21:05;bajista;103.888;sin resultado;0.0
+30/01/2025 21:45;alcista;103.947;SL;-10.0
+30/01/2025 21:50;bajista;103.919;sin resultado;0.0
+30/01/2025 23:05;alcista;103.877;TP;10.0
+31/01/2025 0:20;bajista;10.398;TP;10.0
+31/01/2025 1:30;alcista;103.903;sin resultado;0.0
+31/01/2025 1:50;bajista;103.875;sin resultado;0.0
+31/01/2025 2:15;alcista;103.925;sin resultado;0.0
+31/01/2025 2:55;bajista;103.897;sin resultado;0.0
+31/01/2025 4:25;alcista;103.861;sin resultado;0.0
+31/01/2025 5:20;bajista;103.875;sin resultado;0.0
+31/01/2025 5:50;alcista;103.893;sin resultado;0.0
+31/01/2025 8:05;bajista;103.976;TP;10.0
+31/01/2025 9:40;alcista;103.777;sin resultado;0.0
+31/01/2025 10:15;bajista;103.784;sin resultado;0.0
+31/01/2025 11:15;alcista;103.789;sin resultado;0.0
+31/01/2025 11:20;bajista;103.734;SL;-10.0
+31/01/2025 11:40;alcista;103.778;sin resultado;0.0
+31/01/2025 11:50;bajista;103.743;SL;-10.0
+31/01/2025 12:00;alcista;103.784;sin resultado;0.0
+31/01/2025 13:25;bajista;103.885;TP;10.0
+31/01/2025 14:45;alcista;103.747;SL;-10.0
+31/01/2025 14:55;bajista;103.687;SL;-10.0
+31/01/2025 15:25;alcista;103.753;TP;10.0
+31/01/2025 17:45;bajista;104.178;TP;10.0
+31/01/2025 19:20;alcista;103.703;sin resultado;0.0
+31/01/2025 20:15;bajista;103.714;SL;-10.0
+31/01/2025 20:35;alcista;10.378;SL;-10.0
+31/01/2025 20:50;bajista;103.661;SL;-10.0
+2/02/2025 22:40;alcista;102.525;SL;-10.0
+2/02/2025 23:00;bajista;102.492;SL;-10.0
+2/02/2025 23:05;alcista;102.625;SL;-10.0
+2/02/2025 23:10;bajista;102.478;TP;10.0
+2/02/2025 23:50;alcista;10.249;TP;10.0
+3/02/2025 0:20;bajista;102.198;SL;-10.0
+3/02/2025 1:10;alcista;10.235;TP;10.0
+3/02/2025 1:45;bajista;102.413;TP;10.0
+3/02/2025 3:55;alcista;102.216;TP;10.0
+3/02/2025 4:20;bajista;102.247;SL;-10.0
+3/02/2025 4:55;alcista;102.265;TP;10.0
+3/02/2025 7:05;bajista;102.433;TP;10.0
+3/02/2025 8:20;alcista;102.369;TP;10.0
+3/02/2025 8:50;bajista;102.419;SL;-10.0
+3/02/2025 9:05;alcista;102.484;SL;-10.0
+3/02/2025 9:40;bajista;102.416;TP;10.0
+3/02/2025 10:10;alcista;1.024;sin resultado;0.0
+3/02/2025 11:25;bajista;102.393;SL;-10.0
+3/02/2025 11:40;alcista;102.491;TP;10.0
+3/02/2025 12:50;bajista;102.584;SL;-10.0
+3/02/2025 13:10;alcista;102.776;SL;-10.0
+3/02/2025 13:30;bajista;102.692;TP;10.0
+3/02/2025 14:20;alcista;10.263;SL;-10.0
+3/02/2025 14:35;bajista;102.579;TP;10.0
+3/02/2025 15:15;alcista;102.577;TP;10.0
+3/02/2025 16:25;bajista;103.044;TP;10.0
+3/02/2025 17:30;alcista;102.864;TP;10.0
+3/02/2025 17:55;bajista;102.795;sin resultado;0.0
+3/02/2025 19:00;alcista;102.832;TP;10.0
+3/02/2025 19:40;bajista;102.872;SL;-10.0
+3/02/2025 20:15;alcista;102.953;sin resultado;0.0
+3/02/2025 21:00;bajista;102.939;SL;-10.0
+3/02/2025 21:15;alcista;102.996;TP;10.0
+3/02/2025 22:10;bajista;10.333;SL;-10.0
+3/02/2025 22:20;alcista;103.424;sin resultado;0.0
+3/02/2025 22:45;bajista;103.436;TP;10.0
+3/02/2025 23:05;alcista;10.348.600.000.000.000;SL;-10.0
+3/02/2025 23:15;bajista;10.340.799.999.999.900;TP;10.0
+4/02/2025 1:40;alcista;103.173;sin resultado;0.0
+4/02/2025 3:30;bajista;103.165;sin resultado;0.0
+4/02/2025 4:20;alcista;103.144;SL;-10.0
+4/02/2025 4:30;bajista;103.119;TP;10.0
+4/02/2025 5:30;alcista;102.905;sin resultado;0.0
+4/02/2025 6:25;bajista;102.949;SL;-10.0
+4/02/2025 6:45;alcista;102.969;TP;10.0
+4/02/2025 8:00;bajista;103.112;SL;-10.0
+4/02/2025 8:10;alcista;103.198;TP;10.0
+4/02/2025 9:50;bajista;103.412;TP;10.0
+4/02/2025 10:50;alcista;103.341;SL;-10.0
+4/02/2025 11:05;bajista;103.274;sin resultado;0.0
+4/02/2025 11:35;alcista;103.253;sin resultado;0.0
+4/02/2025 11:50;bajista;103.243;sin resultado;0.0
+4/02/2025 12:25;alcista;103.249;TP;10.0
+4/02/2025 13:35;bajista;103.319;SL;-10.0
+4/02/2025 13:40;alcista;10.337;TP;10.0
+4/02/2025 14:30;bajista;103.457;SL;-10.0
+4/02/2025 14:45;alcista;103.559;TP;10.0
+4/02/2025 16:10;bajista;103.762;SL;-10.0
+4/02/2025 16:35;alcista;103.825;SL;-10.0
+4/02/2025 17:00;bajista;103.775;TP;10.0
+4/02/2025 17:35;alcista;103.731;TP;10.0
+4/02/2025 19:00;bajista;103.816;sin resultado;0.0
+4/02/2025 19:50;alcista;103.846;sin resultado;0.0
+4/02/2025 20:05;bajista;103.815;sin resultado;0.0
+4/02/2025 20:10;alcista;103.841;sin resultado;0.0
+4/02/2025 20:30;bajista;103.812;sin resultado;0.0
+4/02/2025 20:50;alcista;103.846;sin resultado;0.0
+4/02/2025 21:10;bajista;103.831;TP;10.0
+4/02/2025 21:50;alcista;103.799;SL;-10.0
+4/02/2025 21:55;bajista;103.786;sin resultado;0.0
+4/02/2025 22:50;alcista;103.796;sin resultado;0.0
+4/02/2025 23:05;bajista;103.757;sin resultado;0.0
+4/02/2025 23:40;alcista;103.795;sin resultado;0.0
+4/02/2025 23:45;bajista;103.765;sin resultado;0.0
+5/02/2025 0:25;alcista;103.753;TP;10.0
+5/02/2025 1:35;bajista;103.773;sin resultado;0.0
+5/02/2025 2:10;alcista;103.832;sin resultado;0.0
+5/02/2025 3:00;bajista;103.817;sin resultado;0.0
+5/02/2025 3:35;alcista;103.849;sin resultado;0.0
+5/02/2025 3:50;bajista;103.812;sin resultado;0.0
+5/02/2025 5:20;alcista;10.376;TP;10.0
+5/02/2025 5:25;bajista;103.748;SL;-10.0
+5/02/2025 5:45;alcista;103.764;TP;10.0
+5/02/2025 6:40;bajista;103.869;SL;-10.0
+5/02/2025 7:15;alcista;103.983;TP;10.0
+5/02/2025 8:15;bajista;103.952;SL;-10.0
+5/02/2025 8:50;alcista;104.055;TP;10.0
+5/02/2025 9:50;bajista;104.048;SL;-10.0
+5/02/2025 10:15;alcista;104.142;TP;10.0
+5/02/2025 11:00;bajista;10.422;TP;10.0
+5/02/2025 11:55;alcista;104.147;sin resultado;0.0
+5/02/2025 12:00;bajista;10.413.000.000.000.000;sin resultado;0.0
+5/02/2025 12:25;alcista;104.155;TP;10.0
+5/02/2025 13:15;bajista;104.108;SL;-10.0
+5/02/2025 14:05;alcista;10.418;TP;10.0
+5/02/2025 15:30;bajista;104.181;sin resultado;0.0
+5/02/2025 15:55;alcista;104.223;SL;-10.0
+5/02/2025 16:10;bajista;104.142;SL;-10.0
+5/02/2025 16:30;alcista;104.227;SL;-10.0
+5/02/2025 17:15;bajista;104.143;sin resultado;0.0
+5/02/2025 17:40;alcista;104.179;sin resultado;0.0
+5/02/2025 18:45;bajista;104.168;TP;10.0
+5/02/2025 20:50;alcista;104.061;sin resultado;0.0
+5/02/2025 21:05;bajista;104.021;sin resultado;0.0
+5/02/2025 22:05;alcista;104.035;sin resultado;0.0
+5/02/2025 23:00;bajista;104.006;sin resultado;0.0
+5/02/2025 23:25;alcista;104.031;sin resultado;0.0
+5/02/2025 23:40;bajista;103.983;sin resultado;0.0
+6/02/2025 0:10;alcista;104.019;sin resultado;0.0
+6/02/2025 0:15;bajista;103.982;sin resultado;0.0
+6/02/2025 1:15;alcista;104.011;sin resultado;0.0
+6/02/2025 2:10;bajista;104.008;sin resultado;0.0
+6/02/2025 2:50;alcista;103.969;sin resultado;0.0
+6/02/2025 3:10;bajista;103.935;sin resultado;0.0
+6/02/2025 4:10;alcista;103.923;sin resultado;0.0
+6/02/2025 4:30;bajista;103.903;sin resultado;0.0
+6/02/2025 5:15;alcista;103.885;sin resultado;0.0
+6/02/2025 5:50;bajista;103.882;sin resultado;0.0
+6/02/2025 6:30;alcista;103.891;sin resultado;0.0
+6/02/2025 7:00;bajista;10.388;TP;10.0
+6/02/2025 7:25;alcista;10.389;SL;-10.0
+6/02/2025 7:30;bajista;10.383;TP;10.0
+6/02/2025 9:10;alcista;103.664;SL;-10.0
+6/02/2025 9:15;bajista;103.606;sin resultado;0.0
+6/02/2025 9:35;alcista;103.634;sin resultado;0.0
+6/02/2025 9:55;bajista;103.594;sin resultado;0.0
+6/02/2025 10:20;alcista;103.639;sin resultado;0.0
+6/02/2025 10:40;bajista;103.572;SL;-10.0
+6/02/2025 11:15;alcista;103.664;SL;-10.0
+6/02/2025 11:40;bajista;103.613;sin resultado;0.0
+6/02/2025 12:55;alcista;103.619;sin resultado;0.0
+6/02/2025 13:45;bajista;103.585;SL;-10.0
+6/02/2025 14:05;alcista;103.662;sin resultado;0.0
+6/02/2025 14:45;bajista;10.363;SL;-10.0
+6/02/2025 15:10;alcista;103.709;sin resultado;0.0
+6/02/2025 15:35;bajista;103.634;SL;-10.0
+6/02/2025 15:55;alcista;103.694;sin resultado;0.0
+6/02/2025 16:40;bajista;103.711;sin resultado;0.0
+6/02/2025 17:10;alcista;103.759;TP;10.0
+6/02/2025 19:00;bajista;103.882;sin resultado;0.0
+6/02/2025 19:55;alcista;103.847;sin resultado;0.0
+6/02/2025 20:25;bajista;103.855;sin resultado;0.0
+6/02/2025 20:50;alcista;103.875;sin resultado;0.0
+6/02/2025 21:10;bajista;103.869;sin resultado;0.0
+6/02/2025 23:05;alcista;103.841;sin resultado;0.0
+6/02/2025 23:30;bajista;103.846;sin resultado;0.0
+6/02/2025 23:40;alcista;103.854;sin resultado;0.0
+6/02/2025 23:45;bajista;103.842;sin resultado;0.0
+6/02/2025 23:50;alcista;103.855;sin resultado;0.0
+7/02/2025 0:15;bajista;103.841;sin resultado;0.0
+7/02/2025 1:25;alcista;103.792;sin resultado;0.0
+7/02/2025 2:40;bajista;103.831;sin resultado;0.0
+7/02/2025 4:00;alcista;103.794;sin resultado;0.0
+7/02/2025 4:05;bajista;103.777;sin resultado;0.0
+7/02/2025 4:25;alcista;103.804;sin resultado;0.0
+7/02/2025 4:45;bajista;103.797;sin resultado;0.0
+7/02/2025 6:35;alcista;103.766;sin resultado;0.0
+7/02/2025 9:00;bajista;103.956;sin resultado;0.0
+7/02/2025 10:20;alcista;103.885;SL;-10.0
+7/02/2025 10:30;bajista;10.386;sin resultado;0.0
+7/02/2025 11:25;alcista;103.804;sin resultado;0.0
+7/02/2025 12:00;bajista;103.774;sin resultado;0.0
+7/02/2025 12:50;alcista;103.748;TP;10.0
+7/02/2025 13:30;bajista;103.688;TP;10.0
+7/02/2025 14:05;alcista;10.366.900.000.000.000;TP;10.0
+7/02/2025 15:10;bajista;10.375;TP;10.0
+7/02/2025 15:40;alcista;103.776;SL;-10.0
+7/02/2025 15:50;bajista;103.452;TP;10.0
+7/02/2025 17:05;alcista;103.467;SL;-10.0
+7/02/2025 17:15;bajista;103.177;SL;-10.0
+7/02/2025 18:00;alcista;103.256;TP;10.0
+7/02/2025 18:50;bajista;10.323;SL;-10.0
+7/02/2025 19:05;alcista;103.268;TP;10.0
+7/02/2025 20:15;bajista;103.322;TP;10.0
+7/02/2025 20:20;alcista;103.357;SL;-10.0
+7/02/2025 20:25;bajista;103.299;sin resultado;0.0
+7/02/2025 21:00;alcista;103.285;SL;-10.0
+7/02/2025 21:30;bajista;103.285;TP;10.0
+9/02/2025 22:30;alcista;102.961;TP;10.0
+9/02/2025 22:55;bajista;102.906;SL;-10.0
+9/02/2025 23:00;alcista;103.068;sin resultado;0.0
+10/02/2025 0:50;bajista;103.112;TP;10.0
+10/02/2025 2:00;alcista;103.046;sin resultado;0.0
+10/02/2025 2:25;bajista;103.016;sin resultado;0.0
+10/02/2025 3:10;alcista;103.055;sin resultado;0.0
+10/02/2025 4:40;bajista;103.146;sin resultado;0.0
+10/02/2025 5:05;alcista;103.161;sin resultado;0.0
+10/02/2025 5:45;bajista;103.169;sin resultado;0.0
+10/02/2025 6:45;alcista;103.181;sin resultado;0.0
+10/02/2025 7:20;bajista;10.316;sin resultado;0.0
+10/02/2025 7:45;alcista;103.142;sin resultado;0.0
+10/02/2025 7:50;bajista;103.113;sin resultado;0.0
+10/02/2025 8:05;alcista;103.146;TP;10.0
+10/02/2025 8:10;bajista;103.117;SL;-10.0
+10/02/2025 8:20;alcista;103.135;TP;10.0
+10/02/2025 9:50;bajista;103.265;sin resultado;0.0
+10/02/2025 10:35;alcista;103.303;sin resultado;0.0
+10/02/2025 11:15;bajista;103.305;TP;10.0
+10/02/2025 12:30;alcista;103.161;TP;10.0
+10/02/2025 13:45;bajista;103.206;TP;10.0
+10/02/2025 13:50;alcista;103.246;SL;-10.0
+10/02/2025 13:55;bajista;103.215;TP;10.0
+10/02/2025 14:50;alcista;103.095;TP;10.0
+10/02/2025 15:50;bajista;103.148;TP;10.0
+10/02/2025 16:05;alcista;103.162;SL;-10.0
+10/02/2025 16:10;bajista;103.125;sin resultado;0.0
+10/02/2025 17:05;alcista;103.143;sin resultado;0.0
+10/02/2025 17:25;bajista;103.111;sin resultado;0.0
+10/02/2025 18:00;alcista;103.115;sin resultado;0.0
+10/02/2025 18:25;bajista;103.125;sin resultado;0.0
+10/02/2025 19:10;alcista;103.092;sin resultado;0.0
+10/02/2025 19:20;bajista;103.056;sin resultado;0.0
+10/02/2025 19:40;alcista;103.087;sin resultado;0.0
+10/02/2025 19:55;bajista;103.069;sin resultado;0.0
+10/02/2025 20:50;alcista;103.063;sin resultado;0.0
+10/02/2025 21:25;bajista;103.058;sin resultado;0.0
+10/02/2025 22:15;alcista;103.078;sin resultado;0.0
+10/02/2025 22:45;bajista;103.051;sin resultado;0.0
+10/02/2025 23:45;alcista;103.004;sin resultado;0.0
+11/02/2025 1:00;bajista;103.034;sin resultado;0.0
+11/02/2025 1:35;alcista;103.022;sin resultado;0.0
+11/02/2025 2:05;bajista;103.016;sin resultado;0.0
+11/02/2025 3:30;alcista;102.984;sin resultado;0.0
+11/02/2025 5:30;bajista;103.033;sin resultado;0.0
+11/02/2025 6:00;alcista;103.058;sin resultado;0.0
+11/02/2025 6:45;bajista;103.073;sin resultado;0.0
+11/02/2025 7:25;alcista;103.056;sin resultado;0.0
+11/02/2025 7:35;bajista;103.022;sin resultado;0.0
+11/02/2025 7:45;alcista;103.061;TP;10.0
+11/02/2025 8:00;bajista;103.016;SL;-10.0
+11/02/2025 8:20;alcista;103.082;TP;10.0
+11/02/2025 9:20;bajista;10.315;SL;-10.0
+11/02/2025 9:50;alcista;103.181;sin resultado;0.0
+11/02/2025 10:35;bajista;103.162;sin resultado;0.0
+11/02/2025 11:00;alcista;103.191;sin resultado;0.0
+11/02/2025 11:30;bajista;103.169;SL;-10.0
+11/02/2025 11:35;alcista;103.196;sin resultado;0.0
+11/02/2025 12:45;bajista;103.258;sin resultado;0.0
+11/02/2025 13:50;alcista;103.223;TP;10.0
+11/02/2025 15:00;bajista;103.286;SL;-10.0
+11/02/2025 15:15;alcista;103.388;TP;10.0
+11/02/2025 15:40;bajista;103.366;SL;-10.0
+11/02/2025 15:45;alcista;103.396;TP;10.0
+11/02/2025 16:50;bajista;103.455;sin resultado;0.0
+11/02/2025 17:35;alcista;103.474;sin resultado;0.0
+11/02/2025 17:55;bajista;103.453;sin resultado;0.0
+11/02/2025 18:00;alcista;10.349;sin resultado;0.0
+11/02/2025 18:20;bajista;103.474;sin resultado;0.0
+11/02/2025 19:30;alcista;103.492;TP;10.0
+11/02/2025 19:55;bajista;103.582;sin resultado;0.0
+11/02/2025 20:10;alcista;103.618;sin resultado;0.0
+11/02/2025 21:10;bajista;103.618;sin resultado;0.0
+11/02/2025 22:30;alcista;103.636;sin resultado;0.0
+11/02/2025 22:45;bajista;103.601;sin resultado;0.0
+11/02/2025 23:10;alcista;10.366.900.000.000.000;sin resultado;0.0
+12/02/2025 0:00;bajista;103.615;sin resultado;0.0
+12/02/2025 0:35;alcista;103.585;sin resultado;0.0
+12/02/2025 0:45;bajista;103.577;sin resultado;0.0
+12/02/2025 1:25;alcista;103.574;sin resultado;0.0
+12/02/2025 3:00;bajista;103.619;sin resultado;0.0
+12/02/2025 3:20;alcista;103.647;sin resultado;0.0
+12/02/2025 3:35;bajista;10.362;sin resultado;0.0
+12/02/2025 4:15;alcista;103.627;sin resultado;0.0
+12/02/2025 4:30;bajista;103.595;sin resultado;0.0
+12/02/2025 5:15;alcista;103.565;sin resultado;0.0
+12/02/2025 6:35;bajista;103.577;sin resultado;0.0
+12/02/2025 6:55;alcista;10.359;TP;10.0
+12/02/2025 8:20;bajista;103.743;sin resultado;0.0
+12/02/2025 8:50;alcista;10.375;SL;-10.0
+12/02/2025 8:55;bajista;103.712;sin resultado;0.0
+12/02/2025 9:30;alcista;103.724;sin resultado;0.0
+12/02/2025 9:45;bajista;103.694;sin resultado;0.0
+12/02/2025 9:55;alcista;103.737;sin resultado;0.0
+12/02/2025 10:20;bajista;103.716;SL;-10.0
+12/02/2025 10:40;alcista;103.749;TP;10.0
+12/02/2025 11:40;bajista;103.799;sin resultado;0.0
+12/02/2025 12:30;alcista;103.764;SL;-10.0
+12/02/2025 12:55;bajista;103.729;TP;10.0
+12/02/2025 13:55;alcista;103.331;TP;10.0
+12/02/2025 14:50;bajista;103.443;SL;-10.0
+12/02/2025 15:20;alcista;103.572;TP;10.0
+12/02/2025 15:55;bajista;103.745;TP;10.0
+12/02/2025 16:35;alcista;103.686;TP;10.0
+12/02/2025 17:40;bajista;104.056;SL;-10.0
+12/02/2025 17:45;alcista;104.169;TP;10.0
+12/02/2025 18:15;bajista;104.163;TP;10.0
+12/02/2025 19:35;alcista;10.392;sin resultado;0.0
+12/02/2025 20:50;bajista;103.944;TP;10.0
+12/02/2025 22:20;alcista;103.844;sin resultado;0.0
+12/02/2025 22:50;bajista;103.843;sin resultado;0.0
+12/02/2025 23:00;alcista;10.387;sin resultado;0.0
+13/02/2025 0:20;bajista;103.916;sin resultado;0.0
+13/02/2025 0:25;alcista;103.953;sin resultado;0.0
+13/02/2025 0:55;bajista;103.896;SL;-10.0
+13/02/2025 1:15;alcista;103.936;sin resultado;0.0
+13/02/2025 2:10;bajista;103.979;SL;-10.0
+13/02/2025 2:25;alcista;104.027;TP;10.0
+13/02/2025 2:55;bajista;10.404;SL;-10.0
+13/02/2025 3:10;alcista;10.409;TP;10.0
+13/02/2025 5:40;bajista;104.314;sin resultado;0.0
+13/02/2025 5:55;alcista;10.435;sin resultado;0.0
+13/02/2025 6:35;bajista;104.361;sin resultado;0.0
+13/02/2025 7:40;alcista;104.327;SL;-10.0
+13/02/2025 7:50;bajista;10.424;TP;10.0
+13/02/2025 9:10;alcista;104.185;TP;10.0
+13/02/2025 9:35;bajista;104.144;SL;-10.0
+13/02/2025 9:40;alcista;104.196;sin resultado;0.0
+13/02/2025 10:30;bajista;104.213;sin resultado;0.0
+13/02/2025 11:10;alcista;10.425;SL;-10.0
+13/02/2025 11:25;bajista;104.196;TP;10.0
+13/02/2025 12:35;alcista;103.957;SL;-10.0
+13/02/2025 13:00;bajista;103.914;TP;10.0
+13/02/2025 13:15;alcista;10.392;SL;-10.0
+13/02/2025 13:20;bajista;103.883;TP;10.0
+13/02/2025 13:30;alcista;103.962;TP;10.0
+13/02/2025 13:55;bajista;103.925;TP;10.0
+13/02/2025 14:20;alcista;103.907;TP;10.0
+13/02/2025 14:25;bajista;103.848;SL;-10.0
+13/02/2025 14:45;alcista;10.397;TP;10.0
+13/02/2025 16:40;bajista;104.263;SL;-10.0
+13/02/2025 17:05;alcista;104.304;SL;-10.0
+13/02/2025 17:50;bajista;104.288;TP;10.0
+13/02/2025 18:35;alcista;104.312;SL;-10.0
+13/02/2025 18:40;bajista;104.034;SL;-10.0
+13/02/2025 19:10;alcista;104.301;TP;10.0
+13/02/2025 22:05;bajista;10.463;sin resultado;0.0
+13/02/2025 22:20;alcista;104.671;sin resultado;0.0
+13/02/2025 22:50;bajista;104.653;sin resultado;0.0
+13/02/2025 23:55;alcista;104.617;sin resultado;0.0
+14/02/2025 0:10;bajista;104.591;sin resultado;0.0
+14/02/2025 0:15;alcista;104.646;sin resultado;0.0
+14/02/2025 0:35;bajista;104.627;sin resultado;0.0
+14/02/2025 1:15;alcista;104.632;sin resultado;0.0
+14/02/2025 1:40;bajista;104.626;sin resultado;0.0
+14/02/2025 3:20;alcista;104.571;sin resultado;0.0
+14/02/2025 4:35;bajista;104.579;TP;10.0
+14/02/2025 5:50;alcista;104.516;sin resultado;0.0
+14/02/2025 7:30;bajista;104.678;SL;-10.0
+14/02/2025 8:00;alcista;104.671;TP;10.0
+14/02/2025 8:55;bajista;104.769;SL;-10.0
+14/02/2025 9:15;alcista;104.826;sin resultado;0.0
+14/02/2025 9:45;bajista;104.774;TP;10.0
+14/02/2025 10:15;alcista;104.812;SL;-10.0
+14/02/2025 10:25;bajista;10.475;TP;10.0
+14/02/2025 11:50;alcista;104.672;SL;-10.0
+14/02/2025 12:00;bajista;104.645;SL;-10.0
+14/02/2025 12:25;alcista;104.688;TP;10.0
+14/02/2025 15:00;bajista;105.041;TP;10.0
+14/02/2025 15:45;alcista;105.088;SL;-10.0
+14/02/2025 16:15;bajista;105.037;sin resultado;0.0
+14/02/2025 17:30;alcista;105.006;sin resultado;0.0
+14/02/2025 18:25;bajista;105.015;sin resultado;0.0
+14/02/2025 19:00;alcista;105.032;sin resultado;0.0
+14/02/2025 19:10;bajista;105.004;sin resultado;0.0
+14/02/2025 21:15;alcista;104.938;SL;-10.0
+14/02/2025 21:50;bajista;104.887;sin resultado;0.0
+16/02/2025 22:20;alcista;104.866;sin resultado;0.0
+16/02/2025 23:20;bajista;104.878;sin resultado;0.0
+16/02/2025 23:45;alcista;104.895;sin resultado;0.0
+17/02/2025 0:10;bajista;104.864;sin resultado;0.0
+17/02/2025 0:30;alcista;104.877;TP;10.0
+17/02/2025 2:15;bajista;1.05;sin resultado;0.0
+17/02/2025 3:05;alcista;105.029;SL;-10.0
+17/02/2025 3:20;bajista;104.952;sin resultado;0.0
+17/02/2025 4:25;alcista;104.931;sin resultado;0.0
+17/02/2025 5:20;bajista;104.937;sin resultado;0.0
+17/02/2025 6:00;alcista;104.896;sin resultado;0.0
+17/02/2025 7:20;bajista;10.489;TP;10.0
+17/02/2025 9:15;alcista;104.793;sin resultado;0.0
+17/02/2025 9:35;bajista;104.723;SL;-10.0
+17/02/2025 10:05;alcista;104.795;sin resultado;0.0
+17/02/2025 10:40;bajista;104.818;sin resultado;0.0
+17/02/2025 10:45;alcista;104.879;SL;-10.0
+17/02/2025 11:10;bajista;104.854;sin resultado;0.0
+17/02/2025 11:55;alcista;10.482;SL;-10.0
+17/02/2025 12:00;bajista;104.782;sin resultado;0.0
+17/02/2025 12:10;alcista;104.841;SL;-10.0
+17/02/2025 12:20;bajista;104.763;sin resultado;0.0
+17/02/2025 13:00;alcista;10.472;sin resultado;0.0
+17/02/2025 13:25;bajista;104.687;sin resultado;0.0
+17/02/2025 13:40;alcista;104.729;sin resultado;0.0
+17/02/2025 14:10;bajista;104.739;SL;-10.0
+17/02/2025 14:35;alcista;104.743;sin resultado;0.0
+17/02/2025 15:40;bajista;104.788;sin resultado;0.0
+17/02/2025 16:25;alcista;104.817;sin resultado;0.0
+17/02/2025 16:35;bajista;104.783;sin resultado;0.0
+17/02/2025 17:05;alcista;104.793;sin resultado;0.0
+17/02/2025 17:45;bajista;104.813;sin resultado;0.0
+17/02/2025 18:50;alcista;104.812;sin resultado;0.0
+17/02/2025 19:35;bajista;104.818;sin resultado;0.0
+17/02/2025 20:10;alcista;104.815;sin resultado;0.0
+17/02/2025 21:55;bajista;104.838;sin resultado;0.0
+17/02/2025 22:15;alcista;104.793;sin resultado;0.0
+17/02/2025 22:40;bajista;104.828;sin resultado;0.0
+17/02/2025 23:40;alcista;104.836;sin resultado;0.0
+18/02/2025 0:25;bajista;104.801;TP;10.0
+18/02/2025 1:55;alcista;104.663;sin resultado;0.0
+18/02/2025 2:55;bajista;104.677;sin resultado;0.0
+18/02/2025 3:30;alcista;104.711;SL;-10.0
+18/02/2025 3:50;bajista;104.627;sin resultado;0.0
+18/02/2025 6:00;alcista;104.559;sin resultado;0.0
+18/02/2025 7:25;bajista;10.461;sin resultado;0.0
+18/02/2025 7:40;alcista;104.688;SL;-10.0
+18/02/2025 8:05;bajista;104.617;sin resultado;0.0
+18/02/2025 8:20;alcista;10.467;SL;-10.0
+18/02/2025 8:50;bajista;104.582;sin resultado;0.0
+18/02/2025 9:20;alcista;1.046;sin resultado;0.0
+18/02/2025 10:20;bajista;104.609;sin resultado;0.0
+18/02/2025 11:15;alcista;104.642;SL;-10.0
+18/02/2025 11:30;bajista;104.633;TP;10.0
+18/02/2025 11:35;alcista;104.647;SL;-10.0
+18/02/2025 11:45;bajista;104.627;sin resultado;0.0
+18/02/2025 12:05;alcista;10.463;SL;-10.0
+18/02/2025 12:10;bajista;104.586;TP;10.0
+18/02/2025 12:40;alcista;104.589;SL;-10.0
+18/02/2025 12:55;bajista;104.553;TP;10.0
+18/02/2025 14:20;alcista;104.494;TP;10.0
+18/02/2025 15:30;bajista;104.542;SL;-10.0
+18/02/2025 15:45;alcista;104.607;sin resultado;0.0
+18/02/2025 16:15;bajista;104.632;TP;10.0
+18/02/2025 18:25;alcista;104.394;sin resultado;0.0
+18/02/2025 19:55;bajista;104.451;sin resultado;0.0
+18/02/2025 20:45;alcista;104.466;sin resultado;0.0
+18/02/2025 21:25;bajista;104.459;sin resultado;0.0
+18/02/2025 21:50;alcista;104.464;sin resultado;0.0
+18/02/2025 22:20;bajista;104.446;sin resultado;0.0
+18/02/2025 22:25;alcista;104.476;sin resultado;0.0
+18/02/2025 23:10;bajista;104.458;sin resultado;0.0
+18/02/2025 23:30;alcista;104.475;sin resultado;0.0
+19/02/2025 0:00;bajista;104.463;sin resultado;0.0
+19/02/2025 0:25;alcista;104.491;sin resultado;0.0
+19/02/2025 0:50;bajista;104.459;sin resultado;0.0
+19/02/2025 1:20;alcista;104.472;sin resultado;0.0
+19/02/2025 1:35;bajista;104.432;sin resultado;0.0
+19/02/2025 1:55;alcista;104.466;sin resultado;0.0
+19/02/2025 3:05;bajista;104.493;sin resultado;0.0
+19/02/2025 3:45;alcista;10.452;sin resultado;0.0
+19/02/2025 4:15;bajista;104.503;sin resultado;0.0
+19/02/2025 4:45;alcista;104.512;sin resultado;0.0
+19/02/2025 5:20;bajista;104.493;SL;-10.0
+19/02/2025 5:35;alcista;104.536;sin resultado;0.0
+19/02/2025 6:45;bajista;104.562;sin resultado;0.0
+19/02/2025 8:30;alcista;104.528;SL;-10.0
+19/02/2025 8:40;bajista;104.477;TP;10.0
+19/02/2025 9:20;alcista;104.416;SL;-10.0
+19/02/2025 9:35;bajista;104.387;TP;10.0
+19/02/2025 11:00;alcista;104.273;sin resultado;0.0
+19/02/2025 11:25;bajista;104.265;sin resultado;0.0
+19/02/2025 12:10;alcista;104.268;sin resultado;0.0
+19/02/2025 12:30;bajista;104.242;SL;-10.0
+19/02/2025 12:40;alcista;104.288;sin resultado;0.0
+19/02/2025 13:20;bajista;104.262;sin resultado;0.0
+19/02/2025 13:40;alcista;10.431.300.000.000.000;sin resultado;0.0
+19/02/2025 14:10;bajista;104.321;sin resultado;0.0
+19/02/2025 14:50;alcista;104.342;SL;-10.0
+19/02/2025 15:10;bajista;104.325;TP;10.0
+19/02/2025 15:30;alcista;104.386;SL;-10.0
+19/02/2025 15:40;bajista;104.312;TP;10.0
+19/02/2025 16:40;alcista;104.121;SL;-10.0
+19/02/2025 16:55;bajista;104.047;sin resultado;0.0
+19/02/2025 17:15;alcista;104.104;sin resultado;0.0
+19/02/2025 17:40;bajista;104.071;SL;-10.0
+19/02/2025 17:50;alcista;104.108;TP;10.0
+19/02/2025 19:45;bajista;10.425.200.000.000.000;sin resultado;0.0
+19/02/2025 20:55;alcista;104.253;sin resultado;0.0
+19/02/2025 21:35;bajista;104.228;sin resultado;0.0
+19/02/2025 22:15;alcista;104.242;sin resultado;0.0
+19/02/2025 23:05;bajista;104.227;sin resultado;0.0
+20/02/2025 0:35;alcista;104.246;sin resultado;0.0
+20/02/2025 1:25;bajista;104.263;sin resultado;0.0
+20/02/2025 2:05;alcista;104.276;TP;10.0
+20/02/2025 2:25;bajista;104.247;SL;-10.0
+20/02/2025 2:35;alcista;104.305;sin resultado;0.0
+20/02/2025 3:10;bajista;10.431.300.000.000.000;sin resultado;0.0
+20/02/2025 3:40;alcista;104.331;sin resultado;0.0
+20/02/2025 4:00;bajista;104.293;sin resultado;0.0
+20/02/2025 4:45;alcista;104.276;sin resultado;0.0
+20/02/2025 5:35;bajista;104.292;sin resultado;0.0
+20/02/2025 6:05;alcista;104.309;sin resultado;0.0
+20/02/2025 6:35;bajista;10.431;sin resultado;0.0
+20/02/2025 7:15;alcista;10.428;TP;10.0
+20/02/2025 8:30;bajista;104.365;sin resultado;0.0
+20/02/2025 8:55;alcista;104.332;sin resultado;0.0
+20/02/2025 9:35;bajista;104.307;SL;-10.0
+20/02/2025 9:50;alcista;104.363;sin resultado;0.0
+20/02/2025 11:20;bajista;104.411;TP;10.0
+20/02/2025 12:05;alcista;104.407;sin resultado;0.0
+20/02/2025 12:25;bajista;10.435;SL;-10.0
+20/02/2025 13:00;alcista;104.388;TP;10.0
+20/02/2025 14:50;bajista;104.512;SL;-10.0
+20/02/2025 15:20;alcista;104.594;TP;10.0
+20/02/2025 16:10;bajista;104.695;SL;-10.0
+20/02/2025 16:35;alcista;104.709;TP;10.0
+20/02/2025 17:00;bajista;104.723;SL;-10.0
+20/02/2025 17:05;alcista;10.478;TP;10.0
+20/02/2025 18:00;bajista;104.859;SL;-10.0
+20/02/2025 18:10;alcista;104.948;sin resultado;0.0
+20/02/2025 19:15;bajista;104.917;SL;-10.0
+20/02/2025 19:35;alcista;104.961;sin resultado;0.0
+20/02/2025 20:05;bajista;104.967;sin resultado;0.0
+20/02/2025 20:30;alcista;104.984;sin resultado;0.0
+20/02/2025 21:15;bajista;105.013;TP;10.0
+20/02/2025 21:30;alcista;105.025;SL;-10.0
+20/02/2025 21:50;bajista;105.006;TP;10.0
+20/02/2025 22:15;alcista;104.978;sin resultado;0.0
+20/02/2025 22:50;bajista;104.973;sin resultado;0.0
+20/02/2025 23:00;alcista;105.025;sin resultado;0.0
+20/02/2025 23:50;bajista;105.006;TP;10.0
+21/02/2025 2:00;alcista;104.894;TP;10.0
+21/02/2025 4:35;bajista;105.037;sin resultado;0.0
+21/02/2025 7:00;alcista;104.937;sin resultado;0.0
+21/02/2025 7:50;bajista;104.955;TP;10.0
+21/02/2025 9:35;alcista;104.763;SL;-10.0
+21/02/2025 9:45;bajista;104.684;sin resultado;0.0
+21/02/2025 10:15;alcista;104.701;sin resultado;0.0
+21/02/2025 10:40;bajista;104.687;sin resultado;0.0
+21/02/2025 11:15;alcista;10.467;sin resultado;0.0
+21/02/2025 11:50;bajista;1.047;TP;10.0
+21/02/2025 12:30;alcista;104.678;sin resultado;0.0
+21/02/2025 12:55;bajista;104.618;SL;-10.0
+21/02/2025 13:10;alcista;104.656;TP;10.0
+21/02/2025 14:20;bajista;104.736;SL;-10.0
+21/02/2025 14:25;alcista;104.773;TP;10.0
+21/02/2025 15:05;bajista;104.757;TP;10.0
+21/02/2025 15:45;alcista;104.594;SL;-10.0
+21/02/2025 15:55;bajista;104.541;sin resultado;0.0
+21/02/2025 16:40;alcista;104.568;sin resultado;0.0
+21/02/2025 16:50;bajista;104.499;SL;-10.0
+21/02/2025 17:00;alcista;104.572;sin resultado;0.0
+21/02/2025 17:15;bajista;104.539;SL;-10.0
+21/02/2025 17:20;alcista;104.561;TP;10.0
+21/02/2025 18:20;bajista;104.568;sin resultado;0.0
+21/02/2025 19:10;alcista;104.629;sin resultado;0.0
+21/02/2025 19:50;bajista;10.462;sin resultado;0.0
+21/02/2025 20:10;alcista;104.635;sin resultado;0.0
+21/02/2025 20:15;bajista;104.616;sin resultado;0.0
+23/02/2025 22:05;alcista;104.658;TP;10.0
+23/02/2025 23:35;bajista;104.786;SL;-10.0
+23/02/2025 23:40;alcista;104.816;TP;10.0
+23/02/2025 23:45;bajista;104.776;SL;-10.0
+24/02/2025 0:10;alcista;10.481;TP;10.0
+24/02/2025 2:20;bajista;105.165;SL;-10.0
+24/02/2025 2:30;alcista;105.221;sin resultado;0.0
+24/02/2025 3:20;bajista;105.213;sin resultado;0.0
+24/02/2025 5:25;alcista;105.152;sin resultado;0.0
+24/02/2025 6:00;bajista;105.115;TP;10.0
+24/02/2025 7:00;alcista;10.514.000.000.000.000;SL;-10.0
+24/02/2025 7:20;bajista;105.057;TP;10.0
+24/02/2025 8:45;alcista;104.832;SL;-10.0
+24/02/2025 9:05;bajista;104.803;TP;10.0
+24/02/2025 9:15;alcista;104.834;SL;-10.0
+24/02/2025 9:20;bajista;104.782;TP;10.0
+24/02/2025 10:40;alcista;104.722;sin resultado;0.0
+24/02/2025 11:10;bajista;104.721;sin resultado;0.0
+24/02/2025 12:05;alcista;104.714;SL;-10.0
+24/02/2025 12:20;bajista;10.467;sin resultado;0.0
+24/02/2025 13:00;alcista;104.695;sin resultado;0.0
+24/02/2025 13:50;bajista;10.467;TP;10.0
+24/02/2025 15:05;alcista;104.685;sin resultado;0.0
+24/02/2025 15:25;bajista;10.467;sin resultado;0.0
+24/02/2025 15:55;alcista;104.689;TP;10.0
+24/02/2025 17:55;bajista;104.724;SL;-10.0
+24/02/2025 18:15;alcista;10.482;sin resultado;0.0
+24/02/2025 18:45;bajista;104.817;sin resultado;0.0
+24/02/2025 19:10;alcista;104.821;sin resultado;0.0
+24/02/2025 19:15;bajista;104.781;sin resultado;0.0
+24/02/2025 21:40;alcista;10.466;sin resultado;0.0
+24/02/2025 23:00;bajista;104.658;sin resultado;0.0
+24/02/2025 23:30;alcista;104.627;sin resultado;0.0
+24/02/2025 23:50;bajista;104.617;sin resultado;0.0
+25/02/2025 0:30;alcista;104.616;sin resultado;0.0
+25/02/2025 1:20;bajista;104.622;sin resultado;0.0
+25/02/2025 1:50;alcista;104.633;TP;10.0
+25/02/2025 3:20;bajista;104.716;sin resultado;0.0
+25/02/2025 3:40;alcista;104.737;sin resultado;0.0
+25/02/2025 4:00;bajista;104.729;sin resultado;0.0
+25/02/2025 4:10;alcista;10.475;sin resultado;0.0
+25/02/2025 4:45;bajista;104.742;sin resultado;0.0
+25/02/2025 5:35;alcista;104.752;sin resultado;0.0
+25/02/2025 6:40;bajista;104.766;sin resultado;0.0
+25/02/2025 7:20;alcista;104.703;SL;-10.0
+25/02/2025 7:40;bajista;104.689;TP;10.0
+25/02/2025 7:50;alcista;104.722;SL;-10.0
+25/02/2025 7:55;bajista;104.643;SL;-10.0
+25/02/2025 8:05;alcista;104.724;SL;-10.0
+25/02/2025 8:30;bajista;104.615;SL;-10.0
+25/02/2025 8:50;alcista;104.695;sin resultado;0.0
+25/02/2025 9:35;bajista;104.723;sin resultado;0.0
+25/02/2025 10:25;alcista;104.691;TP;10.0
+25/02/2025 12:35;bajista;104.944;SL;-10.0
+25/02/2025 13:00;alcista;10.498;TP;10.0
+25/02/2025 13:20;bajista;104.946;SL;-10.0
+25/02/2025 13:25;alcista;104.991;TP;10.0
+25/02/2025 14:00;bajista;10.496;SL;-10.0
+25/02/2025 14:25;alcista;105.041;TP;10.0
+25/02/2025 15:40;bajista;105.074;TP;10.0
+25/02/2025 16:40;alcista;105.047;SL;-10.0
+25/02/2025 16:55;bajista;104.977;TP;10.0
+25/02/2025 17:25;alcista;104.932;TP;10.0
+25/02/2025 18:55;bajista;105.084;sin resultado;0.0
+25/02/2025 19:35;alcista;10.507.900.000.000.000;TP;10.0
+25/02/2025 21:35;bajista;105.144;sin resultado;0.0
+25/02/2025 22:35;alcista;105.133;sin resultado;0.0
+26/02/2025 0:40;bajista;105.218;sin resultado;0.0
+26/02/2025 3:45;alcista;105.042;sin resultado;0.0
+26/02/2025 4:05;bajista;105.028;sin resultado;0.0
+26/02/2025 4:30;alcista;105.049;SL;-10.0
+26/02/2025 4:40;bajista;10.501;sin resultado;0.0
+26/02/2025 6:35;alcista;104.935;sin resultado;0.0
+26/02/2025 7:35;bajista;10.493;SL;-10.0
+26/02/2025 8:05;alcista;105.015;TP;10.0
+26/02/2025 8:40;bajista;1.05;sin resultado;0.0
+26/02/2025 10:00;alcista;104.998;sin resultado;0.0
+26/02/2025 10:10;bajista;104.948;sin resultado;0.0
+26/02/2025 10:50;alcista;104.996;SL;-10.0
+26/02/2025 11:15;bajista;104.976;TP;10.0
+26/02/2025 12:05;alcista;104.939;SL;-10.0
+26/02/2025 12:10;bajista;104.879;TP;10.0
+26/02/2025 12:30;alcista;10.491;SL;-10.0
+26/02/2025 12:45;bajista;104.848;sin resultado;0.0
+26/02/2025 13:10;alcista;104.875;sin resultado;0.0
+26/02/2025 13:40;bajista;104.839;sin resultado;0.0
+26/02/2025 14:15;alcista;104.876;sin resultado;0.0
+26/02/2025 15:00;bajista;104.838;SL;-10.0
+26/02/2025 15:25;alcista;104.956;TP;10.0
+26/02/2025 17:20;bajista;105.129;SL;-10.0
+26/02/2025 17:25;alcista;105.232;SL;-10.0
+26/02/2025 17:30;bajista;10.500.099.999.999.900;TP;10.0
+26/02/2025 19:20;alcista;104.866;sin resultado;0.0
+26/02/2025 20:05;bajista;104.859;sin resultado;0.0
+26/02/2025 20:35;alcista;104.863;sin resultado;0.0
+26/02/2025 21:00;bajista;104.862;sin resultado;0.0
+26/02/2025 21:45;alcista;104.835;sin resultado;0.0
+26/02/2025 23:45;bajista;104.899;sin resultado;0.0
+27/02/2025 1:30;alcista;104.789;sin resultado;0.0
+27/02/2025 2:05;bajista;104.778;sin resultado;0.0
+27/02/2025 3:10;alcista;104.727;sin resultado;0.0
+27/02/2025 3:35;bajista;104.711;TP;10.0
+27/02/2025 5:05;alcista;104.649;sin resultado;0.0
+27/02/2025 5:25;bajista;104.621;sin resultado;0.0
+27/02/2025 5:40;alcista;104.642;sin resultado;0.0
+27/02/2025 6:20;bajista;104.651;sin resultado;0.0
+27/02/2025 6:25;alcista;104.673;sin resultado;0.0
+27/02/2025 7:05;bajista;104.706;sin resultado;0.0
+27/02/2025 7:25;alcista;104.735;sin resultado;0.0
+27/02/2025 8:05;bajista;104.731;sin resultado;0.0
+27/02/2025 8:45;alcista;104.758;sin resultado;0.0
+27/02/2025 9:30;bajista;104.766;sin resultado;0.0
+27/02/2025 9:45;alcista;104.802;sin resultado;0.0
+27/02/2025 10:10;bajista;104.772;SL;-10.0
+27/02/2025 10:40;alcista;104.762;TP;10.0
+27/02/2025 11:20;bajista;104.793;sin resultado;0.0
+27/02/2025 11:45;alcista;104.811;sin resultado;0.0
+27/02/2025 11:55;bajista;104.759;sin resultado;0.0
+27/02/2025 12:30;alcista;104.825;sin resultado;0.0
+27/02/2025 12:50;bajista;104.782;SL;-10.0
+27/02/2025 13:15;alcista;104.787;TP;10.0
+27/02/2025 13:30;bajista;104.749;TP;10.0
+27/02/2025 14:15;alcista;104.402;SL;-10.0
+27/02/2025 14:35;bajista;104.239;TP;10.0
+27/02/2025 16:30;alcista;104.078;TP;10.0
+27/02/2025 17:15;bajista;104.125;TP;10.0
+27/02/2025 18:00;alcista;104.102;sin resultado;0.0
+27/02/2025 19:05;bajista;104.131;sin resultado;0.0
+27/02/2025 20:55;alcista;104.053;sin resultado;0.0
+27/02/2025 21:00;bajista;104.009;sin resultado;0.0
+27/02/2025 23:05;alcista;103.977;sin resultado;0.0
+27/02/2025 23:30;bajista;103.977;sin resultado;0.0
+28/02/2025 0:20;alcista;104.006;sin resultado;0.0
+28/02/2025 1:25;bajista;10.398;TP;10.0
+28/02/2025 3:20;alcista;10.386;sin resultado;0.0
+28/02/2025 4:50;bajista;10.388;sin resultado;0.0
+28/02/2025 5:25;alcista;103.886;sin resultado;0.0
+28/02/2025 6:10;bajista;103.861;sin resultado;0.0
+28/02/2025 6:55;alcista;103.878;TP;10.0
+28/02/2025 7:25;bajista;103.882;SL;-10.0
+28/02/2025 7:35;alcista;103.931;TP;10.0
+28/02/2025 8:20;bajista;103.958;SL;-10.0
+28/02/2025 8:30;alcista;104.017;sin resultado;0.0
+28/02/2025 8:50;bajista;103.999;sin resultado;0.0
+28/02/2025 9:00;alcista;104.061;SL;-10.0
+28/02/2025 9:20;bajista;104.009;sin resultado;0.0
+28/02/2025 10:35;alcista;103.999;sin resultado;0.0
+28/02/2025 11:05;bajista;103.993;sin resultado;0.0
+28/02/2025 11:40;alcista;103.984;sin resultado;0.0
+28/02/2025 13:40;bajista;104.065;sin resultado;0.0
+28/02/2025 15:00;alcista;104.141;SL;-10.0
+28/02/2025 15:40;bajista;104.122;TP;10.0
+28/02/2025 16:30;alcista;104.071;SL;-10.0
+28/02/2025 16:40;bajista;10.402;TP;10.0
+28/02/2025 17:00;alcista;104.046;SL;-10.0
+28/02/2025 17:20;bajista;104.011;TP;10.0
+28/02/2025 19:15;alcista;103.686;sin resultado;0.0
+28/02/2025 19:40;bajista;103.673;sin resultado;0.0
+28/02/2025 19:45;alcista;103.721;sin resultado;0.0
+28/02/2025 19:55;bajista;103.677;sin resultado;0.0
+28/02/2025 20:50;alcista;103.718;sin resultado;0.0
+2/03/2025 22:45;bajista;104.018;SL;-10.0
+2/03/2025 22:55;alcista;104.031;TP;10.0
+2/03/2025 23:00;bajista;104.006;SL;-10.0
+2/03/2025 23:05;alcista;104.132;SL;-10.0
+2/03/2025 23:50;bajista;104.152;TP;10.0
+3/03/2025 0:20;alcista;104.144;sin resultado;0.0
+3/03/2025 0:45;bajista;104.114;SL;-10.0
+3/03/2025 1:05;alcista;104.202;sin resultado;0.0
+3/03/2025 2:00;bajista;104.183;sin resultado;0.0
+3/03/2025 2:05;alcista;104.208;sin resultado;0.0
+3/03/2025 2:25;bajista;104.165;sin resultado;0.0
+3/03/2025 2:45;alcista;104.208;SL;-10.0
+3/03/2025 3:00;bajista;104.164;sin resultado;0.0
+3/03/2025 3:35;alcista;104.158;sin resultado;0.0
+3/03/2025 4:50;bajista;104.179;sin resultado;0.0
+3/03/2025 5:20;alcista;104.183;sin resultado;0.0
+3/03/2025 5:45;bajista;104.134;sin resultado;0.0
+3/03/2025 6:25;alcista;104.144;SL;-10.0
+3/03/2025 6:30;bajista;104.124;TP;10.0
+3/03/2025 7:30;alcista;10.407;SL;-10.0
+3/03/2025 7:50;bajista;104.025;TP;10.0
+3/03/2025 8:55;alcista;104.012;TP;10.0
+3/03/2025 13:05;bajista;104.646;SL;-10.0
+3/03/2025 13:30;alcista;104.736;TP;10.0
+3/03/2025 14:10;bajista;104.713;SL;-10.0
+3/03/2025 14:15;alcista;104.755;TP;10.0
+3/03/2025 15:35;bajista;104.896;SL;-10.0
+3/03/2025 16:10;alcista;104.937;sin resultado;0.0
+3/03/2025 17:00;bajista;10.491;sin resultado;0.0
+3/03/2025 18:05;alcista;104.899;TP;10.0
+3/03/2025 18:25;bajista;104.882;SL;-10.0
+3/03/2025 19:20;alcista;104.897;SL;-10.0
+3/03/2025 19:50;bajista;104.807;TP;10.0
+3/03/2025 20:55;alcista;104.822;TP;10.0
+3/03/2025 21:55;bajista;104.862;sin resultado;0.0
+3/03/2025 22:30;alcista;104.871;sin resultado;0.0
+3/03/2025 22:35;bajista;104.864;sin resultado;0.0
+3/03/2025 22:50;alcista;104.874;SL;-10.0
+3/03/2025 23:00;bajista;104.857;sin resultado;0.0
+3/03/2025 23:15;alcista;104.881;SL;-10.0
+3/03/2025 23:40;bajista;104.807;sin resultado;0.0
+4/03/2025 0:00;alcista;104.861;sin resultado;0.0
+4/03/2025 0:20;bajista;104.783;SL;-10.0
+4/03/2025 0:45;alcista;104.809;TP;10.0
+4/03/2025 1:50;bajista;104.905;TP;10.0
+4/03/2025 4:20;alcista;104.798;sin resultado;0.0
+4/03/2025 6:05;bajista;104.795;SL;-10.0
+4/03/2025 6:15;alcista;104.853;sin resultado;0.0
+4/03/2025 6:40;bajista;104.846;SL;-10.0
+4/03/2025 7:00;alcista;104.897;TP;10.0
+4/03/2025 7:20;bajista;104.821;SL;-10.0
+4/03/2025 7:40;alcista;104.963;SL;-10.0
+4/03/2025 8:05;bajista;10.491;SL;-10.0
+4/03/2025 8:20;alcista;10.508;TP;10.0
+4/03/2025 9:20;bajista;105.114;SL;-10.0
+4/03/2025 9:30;alcista;105.222;SL;-10.0
+4/03/2025 10:00;bajista;105.066;SL;-10.0
+4/03/2025 10:35;alcista;10.513;TP;10.0
+4/03/2025 11:15;bajista;105.119;SL;-10.0
+4/03/2025 11:25;alcista;10.518;TP;10.0
+4/03/2025 13:25;bajista;105.396;TP;10.0
+4/03/2025 13:55;alcista;10.539;SL;-10.0
+4/03/2025 14:15;bajista;105.304;TP;10.0
+4/03/2025 15:40;alcista;105.218;TP;10.0
+4/03/2025 17:15;bajista;105.329;SL;-10.0
+4/03/2025 17:20;alcista;105.356;TP;10.0
+4/03/2025 20:35;bajista;106.069;SL;-10.0
+4/03/2025 20:50;alcista;10.611;TP;10.0
+4/03/2025 22:15;bajista;106.198;SL;-10.0
+4/03/2025 22:40;alcista;106.186;TP;10.0
+4/03/2025 23:25;bajista;106.259;TP;10.0
+5/03/2025 0:40;alcista;106.182;sin resultado;0.0
+5/03/2025 1:25;bajista;106.171;TP;10.0
+5/03/2025 3:15;alcista;106.087;TP;10.0
+5/03/2025 4:25;bajista;106.163;sin resultado;0.0
+5/03/2025 4:35;alcista;10.624;sin resultado;0.0
+5/03/2025 5:25;bajista;106.194;SL;-10.0
+5/03/2025 5:45;alcista;106.249;TP;10.0
+5/03/2025 6:45;bajista;106.252;SL;-10.0
+5/03/2025 6:55;alcista;106.323;TP;10.0
+5/03/2025 9:45;bajista;107.088;SL;-10.0
+5/03/2025 9:50;alcista;107.169;SL;-10.0
+5/03/2025 10:00;bajista;107.077;TP;10.0
+5/03/2025 10:55;alcista;106.972;SL;-10.0
+5/03/2025 11:05;bajista;106.841;SL;-10.0
+5/03/2025 11:40;alcista;106.819;TP;10.0
+5/03/2025 11:55;bajista;106.788;SL;-10.0
+5/03/2025 12:00;alcista;106.851;TP;10.0
+5/03/2025 12:55;bajista;106.957;TP;10.0
+5/03/2025 13:25;alcista;107.068;TP;10.0
+5/03/2025 15:10;bajista;107.428;SL;-10.0
+5/03/2025 15:40;alcista;107.558;TP;10.0
+5/03/2025 16:25;bajista;107.713;SL;-10.0
+5/03/2025 17:10;alcista;107.818;SL;-10.0
+5/03/2025 18:05;bajista;107.699;SL;-10.0
+5/03/2025 19:00;alcista;10.772.599.999.999.900;TP;10.0
+5/03/2025 21:00;bajista;107.884;sin resultado;0.0
+5/03/2025 21:30;alcista;107.911;sin resultado;0.0
+5/03/2025 21:50;bajista;107.897;sin resultado;0.0
+5/03/2025 22:15;alcista;107.903;sin resultado;0.0
+5/03/2025 23:15;bajista;107.886;SL;-10.0
+5/03/2025 23:25;alcista;107.918;sin resultado;0.0
+5/03/2025 23:30;bajista;107.888;SL;-10.0
+5/03/2025 23:35;alcista;107.922;sin resultado;0.0
+6/03/2025 1:05;bajista;107.897;SL;-10.0
+6/03/2025 1:20;alcista;107.995;TP;10.0
+6/03/2025 2:10;bajista;108.139;TP;10.0
+6/03/2025 4:20;alcista;107.916;TP;10.0
+6/03/2025 6:30;bajista;10.807;SL;-10.0
+6/03/2025 7:05;alcista;108.145;SL;-10.0
+6/03/2025 7:15;bajista;108.008;SL;-10.0
+6/03/2025 7:35;alcista;108.077;TP;10.0
+6/03/2025 8:00;bajista;107.947;SL;-10.0
+6/03/2025 8:40;alcista;108.091;SL;-10.0
+6/03/2025 9:10;bajista;107.963;TP;10.0
+6/03/2025 9:50;alcista;10.802.100.000.000.000;SL;-10.0
+6/03/2025 10:20;bajista;107.859;SL;-10.0
+6/03/2025 10:35;alcista;108.006;SL;-10.0
+6/03/2025 10:55;bajista;107.918;sin resultado;0.0
+6/03/2025 11:10;alcista;107.968;SL;-10.0
+6/03/2025 11:20;bajista;107.876;SL;-10.0
+6/03/2025 11:35;alcista;10.796.999.999.999.900;sin resultado;0.0
+6/03/2025 12:30;bajista;107.973;SL;-10.0
+6/03/2025 13:15;alcista;108.277;SL;-10.0
+6/03/2025 14:20;bajista;10.821;SL;-10.0
+6/03/2025 14:35;alcista;108.289;TP;10.0
+6/03/2025 15:20;bajista;108.269;TP;10.0
+6/03/2025 16:10;alcista;10.827;TP;10.0
+6/03/2025 16:45;bajista;108.227;TP;10.0
+6/03/2025 19:00;alcista;107.849;TP;10.0
+6/03/2025 20:10;bajista;108.004;TP;10.0
+6/03/2025 21:00;alcista;107.903;SL;-10.0
+6/03/2025 21:05;bajista;107.865;TP;10.0
+6/03/2025 21:40;alcista;107.834;sin resultado;0.0
+6/03/2025 23:35;bajista;107.915;sin resultado;0.0
+7/03/2025 0:10;alcista;107.938;sin resultado;0.0
+7/03/2025 0:35;bajista;107.895;sin resultado;0.0
+7/03/2025 1:40;alcista;107.876;sin resultado;0.0
+7/03/2025 3:55;bajista;108.057;sin resultado;0.0
+7/03/2025 4:10;alcista;108.088;sin resultado;0.0
+7/03/2025 4:20;bajista;108.042;SL;-10.0
+7/03/2025 4:35;alcista;108.087;sin resultado;0.0
+7/03/2025 5:10;bajista;108.086;sin resultado;0.0
+7/03/2025 5:25;alcista;108.097;TP;10.0
+7/03/2025 6:00;bajista;108.103;SL;-10.0
+7/03/2025 6:15;alcista;108.191;sin resultado;0.0
+7/03/2025 8:00;bajista;108.287;SL;-10.0
+7/03/2025 8:10;alcista;108.389;TP;10.0
+7/03/2025 9:55;bajista;10.861.399.999.999.900;sin resultado;0.0
+7/03/2025 10:05;alcista;10.866;SL;-10.0
+7/03/2025 10:50;bajista;108.596;TP;10.0
+7/03/2025 11:25;alcista;108.508;sin resultado;0.0
+7/03/2025 11:40;bajista;108.471;sin resultado;0.0
+7/03/2025 11:50;alcista;108.536;SL;-10.0
+7/03/2025 12:10;bajista;108.463;SL;-10.0
+7/03/2025 12:45;alcista;10.856;SL;-10.0
+7/03/2025 13:00;bajista;108.511;SL;-10.0
+7/03/2025 13:05;alcista;108.571;TP;10.0
+7/03/2025 13:50;bajista;108.586;TP;10.0
+7/03/2025 14:20;alcista;108.696;TP;10.0
+7/03/2025 14:50;bajista;108.601;TP;10.0
+7/03/2025 15:45;alcista;108.735;SL;-10.0
+7/03/2025 16:05;bajista;108.525;SL;-10.0
+7/03/2025 16:45;alcista;108.525;TP;10.0
+7/03/2025 17:15;bajista;108.425;TP;10.0
+7/03/2025 18:40;alcista;108.377;sin resultado;0.0
+7/03/2025 19:10;bajista;108.356;SL;-10.0
+7/03/2025 19:20;alcista;108.389;sin resultado;0.0
+7/03/2025 21:25;bajista;108.409;TP;10.0
+9/03/2025 21:35;alcista;10.832;TP;10.0
+9/03/2025 22:25;bajista;10.849;SL;-10.0
+9/03/2025 22:35;alcista;108.542;TP;10.0
+9/03/2025 22:40;bajista;108.474;SL;-10.0
+9/03/2025 23:00;alcista;10.851;TP;10.0
+9/03/2025 23:35;bajista;108.601;sin resultado;0.0
+10/03/2025 0:35;alcista;108.589;TP;10.0
+10/03/2025 1:25;bajista;108.613;TP;10.0
+10/03/2025 3:40;alcista;108.347;sin resultado;0.0
+10/03/2025 3:55;bajista;108.315;sin resultado;0.0
+10/03/2025 4:25;alcista;108.366;sin resultado;0.0
+10/03/2025 4:40;bajista;108.346;sin resultado;0.0
+10/03/2025 5:35;alcista;108.336;TP;10.0
+10/03/2025 6:40;bajista;108.407;TP;10.0
+10/03/2025 8:30;alcista;108.211;SL;-10.0
+10/03/2025 8:50;bajista;108.075;SL;-10.0
+10/03/2025 9:15;alcista;10.828;TP;10.0
+10/03/2025 10:45;bajista;108.588;TP;10.0
+10/03/2025 11:20;alcista;108.545;sin resultado;0.0
+10/03/2025 11:35;bajista;108.459;SL;-10.0
+10/03/2025 11:45;alcista;108.602;SL;-10.0
+10/03/2025 12:00;bajista;108.473;SL;-10.0
+10/03/2025 12:25;alcista;108.551;SL;-10.0
+10/03/2025 12:45;bajista;10.846;TP;10.0
+10/03/2025 13:20;alcista;108.465;SL;-10.0
+10/03/2025 13:30;bajista;108.419;TP;10.0
+10/03/2025 14:20;alcista;108.405;SL;-10.0
+10/03/2025 14:35;bajista;108.352;SL;-10.0
+10/03/2025 14:40;alcista;108.416;SL;-10.0
+10/03/2025 15:05;bajista;108.322;TP;10.0
+10/03/2025 16:00;alcista;108.363;SL;-10.0
+10/03/2025 16:35;bajista;108.349;sin resultado;0.0
+10/03/2025 17:15;alcista;10.836;SL;-10.0
+10/03/2025 17:55;bajista;108.298;TP;10.0
+10/03/2025 18:45;alcista;10.828;SL;-10.0
+10/03/2025 19:35;bajista;108.201;SL;-10.0
+10/03/2025 19:50;alcista;108.279;sin resultado;0.0
+10/03/2025 20:30;bajista;108.266;sin resultado;0.0
+10/03/2025 20:45;alcista;108.314;sin resultado;0.0
+10/03/2025 22:45;bajista;108.369;sin resultado;0.0
+10/03/2025 23:00;alcista;108.403;sin resultado;0.0
+10/03/2025 23:40;bajista;108.417;sin resultado;0.0
+11/03/2025 0:00;alcista;108.429;TP;10.0
+11/03/2025 1:30;bajista;108.442;SL;-10.0
+11/03/2025 1:40;alcista;108.538;sin resultado;0.0
+11/03/2025 2:25;bajista;108.557;sin resultado;0.0
+11/03/2025 3:00;alcista;10.856;sin resultado;0.0
+11/03/2025 3:25;bajista;108.503;sin resultado;0.0
+11/03/2025 3:55;alcista;108.544;sin resultado;0.0
+11/03/2025 4:50;bajista;10.854;TP;10.0
+11/03/2025 6:10;alcista;108.395;TP;10.0
+11/03/2025 8:00;bajista;1.089;SL;-10.0
+11/03/2025 8:10;alcista;108.976;TP;10.0
+11/03/2025 9:15;bajista;109.024;SL;-10.0
+11/03/2025 9:45;alcista;109.167;SL;-10.0
+11/03/2025 10:00;bajista;108.986;TP;10.0
+11/03/2025 10:45;alcista;108.981;SL;-10.0
+11/03/2025 11:00;bajista;108.835;SL;-10.0
+11/03/2025 11:30;alcista;108.954;TP;10.0
+11/03/2025 14:00;bajista;109.087;SL;-10.0
+11/03/2025 14:45;alcista;109.169;sin resultado;0.0
+11/03/2025 15:25;bajista;109.172;SL;-10.0
+11/03/2025 15:35;alcista;109.214;sin resultado;0.0
+11/03/2025 17:25;bajista;109.288;SL;-10.0
+11/03/2025 17:45;alcista;1.093;TP;10.0
+11/03/2025 18:30;bajista;10.937.999.999.999.900;TP;10.0
+11/03/2025 20:50;alcista;109.177;sin resultado;0.0
+11/03/2025 21:20;bajista;109.138;sin resultado;0.0
+11/03/2025 22:00;alcista;109.151;sin resultado;0.0
+11/03/2025 22:35;bajista;10.914;sin resultado;0.0
+11/03/2025 22:55;alcista;109.157;sin resultado;0.0
+11/03/2025 23:45;bajista;109.147;sin resultado;0.0
+12/03/2025 1:20;alcista;1.091;sin resultado;0.0
+12/03/2025 1:50;bajista;10.908;sin resultado;0.0
+12/03/2025 2:10;alcista;109.103;sin resultado;0.0
+12/03/2025 2:20;bajista;109.067;sin resultado;0.0
+12/03/2025 4:20;alcista;109.015;sin resultado;0.0
+12/03/2025 4:55;bajista;108.988;sin resultado;0.0
+12/03/2025 5:35;alcista;108.997;sin resultado;0.0
+12/03/2025 6:30;bajista;109.017;TP;10.0
+12/03/2025 7:30;alcista;10.895.299.999.999.900;TP;10.0
+12/03/2025 9:50;bajista;109.173;TP;10.0
+12/03/2025 11:10;alcista;109.103;SL;-10.0
+12/03/2025 11:35;bajista;109.057;TP;10.0
+12/03/2025 13:15;alcista;108.931;SL;-10.0
+12/03/2025 13:35;bajista;10.884.800.000.000.000;SL;-10.0
+12/03/2025 14:15;alcista;108.899;TP;10.0
+12/03/2025 15:40;bajista;109.124;SL;-10.0
+12/03/2025 15:55;alcista;109.242;SL;-10.0
+12/03/2025 16:25;bajista;109.154;TP;10.0
+12/03/2025 17:25;alcista;109.129;SL;-10.0
+12/03/2025 17:45;bajista;109.059;TP;10.0
+12/03/2025 19:10;alcista;108.885;sin resultado;0.0
+12/03/2025 20:10;bajista;108.882;sin resultado;0.0
+12/03/2025 21:40;alcista;108.875;sin resultado;0.0
+12/03/2025 22:45;bajista;108.879;sin resultado;0.0
+13/03/2025 0:00;alcista;108.856;sin resultado;0.0
+13/03/2025 0:10;bajista;108.837;sin resultado;0.0
+13/03/2025 0:35;alcista;108.855;sin resultado;0.0
+13/03/2025 1:15;bajista;108.885;sin resultado;0.0
+13/03/2025 1:50;alcista;108.911;sin resultado;0.0
+13/03/2025 2:30;bajista;108.927;sin resultado;0.0
+13/03/2025 2:45;alcista;108.964;SL;-10.0
+13/03/2025 3:00;bajista;108.932;TP;10.0
+13/03/2025 4:20;alcista;108.872;sin resultado;0.0
+13/03/2025 5:15;bajista;108.826;sin resultado;0.0
+13/03/2025 6:30;alcista;108.811;SL;-10.0
+13/03/2025 6:35;bajista;10.873.599.999.999.900;SL;-10.0
+13/03/2025 7:00;alcista;108.788;SL;-10.0
+13/03/2025 7:30;bajista;108.681;SL;-10.0
+13/03/2025 7:55;alcista;108.655;TP;10.0
+13/03/2025 8:45;bajista;108.759;sin resultado;0.0
+13/03/2025 9:15;alcista;108.805;SL;-10.0
+13/03/2025 9:40;bajista;108.731;sin resultado;0.0
+13/03/2025 10:00;alcista;108.814;SL;-10.0
+13/03/2025 10:15;bajista;108.715;sin resultado;0.0
+13/03/2025 11:20;alcista;108.704;SL;-10.0
+13/03/2025 11:30;bajista;108.659;TP;10.0
+13/03/2025 12:25;alcista;108.628;TP;10.0
+13/03/2025 12:40;bajista;108.388;TP;10.0
+13/03/2025 13:30;alcista;108.371;TP;10.0
+13/03/2025 15:15;bajista;108.617;SL;-10.0
+13/03/2025 15:45;alcista;108.695;SL;-10.0
+13/03/2025 16:00;bajista;108.566;SL;-10.0
+13/03/2025 16:20;alcista;108.639;TP;10.0
+13/03/2025 17:10;bajista;108.634;TP;10.0
+13/03/2025 17:35;alcista;108.646;SL;-10.0
+13/03/2025 17:55;bajista;108.546;sin resultado;0.0
+13/03/2025 19:10;alcista;108.556;sin resultado;0.0
+13/03/2025 19:20;bajista;108.525;sin resultado;0.0
+13/03/2025 20:40;alcista;108.528;sin resultado;0.0
+13/03/2025 21:00;bajista;108.474;sin resultado;0.0
+13/03/2025 21:20;alcista;108.504;sin resultado;0.0
+13/03/2025 22:30;bajista;108.518;sin resultado;0.0
+13/03/2025 22:50;alcista;108.532;sin resultado;0.0
+13/03/2025 23:00;bajista;108.511;sin resultado;0.0
+13/03/2025 23:20;alcista;108.528;sin resultado;0.0
+13/03/2025 23:30;bajista;108.512;sin resultado;0.0
+13/03/2025 23:40;alcista;108.536;sin resultado;0.0
+14/03/2025 0:25;bajista;108.497;sin resultado;0.0
+14/03/2025 0:50;alcista;108.552;SL;-10.0
+14/03/2025 0:55;bajista;10.849.199.999.999.900;sin resultado;0.0
+14/03/2025 1:40;alcista;108.468;SL;-10.0
+14/03/2025 1:55;bajista;108.408;sin resultado;0.0
+14/03/2025 2:50;alcista;108.391;sin resultado;0.0
+14/03/2025 4:05;bajista;108.438;sin resultado;0.0
+14/03/2025 4:55;alcista;108.412;TP;10.0
+14/03/2025 5:20;bajista;108.434;sin resultado;0.0
+14/03/2025 5:45;alcista;10.845;sin resultado;0.0
+14/03/2025 6:15;bajista;108.448;TP;10.0
+14/03/2025 7:05;alcista;108.414;SL;-10.0
+14/03/2025 7:30;bajista;108.358;SL;-10.0
+14/03/2025 7:55;alcista;108.394;TP;10.0
+14/03/2025 8:45;bajista;108.502;SL;-10.0
+14/03/2025 9:30;alcista;108.564;TP;10.0
+14/03/2025 9:55;bajista;108.521;SL;-10.0
+14/03/2025 10:05;alcista;108.617;TP;10.0
+14/03/2025 11:10;bajista;108.942;SL;-10.0
+14/03/2025 11:30;alcista;109.052;SL;-10.0
+14/03/2025 12:40;bajista;10.899;TP;10.0
+14/03/2025 13:20;alcista;108.942;SL;-10.0
+14/03/2025 13:45;bajista;108.798;TP;10.0
+14/03/2025 14:50;alcista;108.798;SL;-10.0
+14/03/2025 15:10;bajista;108.761;SL;-10.0
+14/03/2025 15:15;alcista;10.884;SL;-10.0
+14/03/2025 15:25;bajista;108.745;sin resultado;0.0
+14/03/2025 16:10;alcista;108.812;sin resultado;0.0
+14/03/2025 16:25;bajista;108.773;SL;-10.0
+14/03/2025 16:35;alcista;108.817;sin resultado;0.0
+14/03/2025 17:05;bajista;108.814;sin resultado;0.0
+14/03/2025 17:30;alcista;108.833;sin resultado;0.0
+14/03/2025 17:50;bajista;108.817;sin resultado;0.0
+14/03/2025 18:00;alcista;108.854;SL;-10.0
+14/03/2025 18:05;bajista;108.789;sin resultado;0.0
+14/03/2025 18:55;alcista;108.802;sin resultado;0.0
+14/03/2025 20:50;bajista;108.816;sin resultado;0.0
+16/03/2025 21:20;alcista;108.803;sin resultado;0.0
+16/03/2025 21:45;bajista;108.781;sin resultado;0.0
+16/03/2025 22:40;alcista;108.814;sin resultado;0.0
+16/03/2025 23:45;bajista;108.825;sin resultado;0.0
+17/03/2025 1:20;alcista;108.809;sin resultado;0.0
+17/03/2025 2:05;bajista;108.814;sin resultado;0.0
+17/03/2025 3:35;alcista;108.841;sin resultado;0.0
+17/03/2025 4:05;bajista;108.821;sin resultado;0.0
+17/03/2025 4:30;alcista;10.884;sin resultado;0.0
+17/03/2025 5:05;bajista;108.781;sin resultado;0.0
+17/03/2025 5:45;alcista;108.786;sin resultado;0.0
+17/03/2025 6:50;bajista;108.747;sin resultado;0.0
+17/03/2025 7:05;alcista;108.834;SL;-10.0
+17/03/2025 7:25;bajista;108.761;SL;-10.0
+17/03/2025 7:50;alcista;10.877;TP;10.0
+17/03/2025 9:10;bajista;108.781;SL;-10.0
+17/03/2025 9:25;alcista;108.854;TP;10.0
+17/03/2025 10:50;bajista;109.045;sin resultado;0.0
+17/03/2025 11:00;alcista;109.111;SL;-10.0
+17/03/2025 11:15;bajista;109.056;sin resultado;0.0
+17/03/2025 12:05;alcista;109.022;SL;-10.0
+17/03/2025 12:20;bajista;108.986;TP;10.0
+17/03/2025 12:55;alcista;109.018;sin resultado;0.0
+17/03/2025 15:50;bajista;109.226;sin resultado;0.0
+17/03/2025 16:30;alcista;109.245;SL;-10.0
+17/03/2025 17:10;bajista;109.207;sin resultado;0.0
+17/03/2025 18:05;alcista;109.154;TP;10.0
+17/03/2025 19:15;bajista;109.223;sin resultado;0.0
+17/03/2025 20:05;alcista;109.222;sin resultado;0.0
+17/03/2025 20:50;bajista;109.225;sin resultado;0.0
+17/03/2025 21:35;alcista;109.214;sin resultado;0.0
+17/03/2025 22:10;bajista;1.092;sin resultado;0.0
+17/03/2025 22:40;alcista;109.214;sin resultado;0.0
+17/03/2025 23:05;bajista;109.192;sin resultado;0.0
+18/03/2025 0:15;alcista;109.206;sin resultado;0.0
+18/03/2025 0:30;bajista;109.175;sin resultado;0.0
+18/03/2025 1:00;alcista;109.177;sin resultado;0.0
+18/03/2025 1:30;bajista;109.155;sin resultado;0.0
+18/03/2025 2:00;alcista;109.142;sin resultado;0.0
+18/03/2025 2:10;bajista;109.134;sin resultado;0.0
+18/03/2025 2:45;alcista;109.104;sin resultado;0.0
+18/03/2025 3:05;bajista;109.081;sin resultado;0.0
+18/03/2025 3:55;alcista;109.084;sin resultado;0.0
+18/03/2025 5:20;bajista;109.105;sin resultado;0.0
+18/03/2025 5:40;alcista;109.118;sin resultado;0.0
+18/03/2025 5:55;bajista;109.079;SL;-10.0
+18/03/2025 6:40;alcista;109.072;TP;10.0
+18/03/2025 9:00;bajista;109.478;sin resultado;0.0
+18/03/2025 9:50;alcista;10.949;SL;-10.0
+18/03/2025 10:10;bajista;109.459;TP;10.0
+18/03/2025 12:55;alcista;109.115;SL;-10.0
+18/03/2025 13:35;bajista;109.101;sin resultado;0.0
+18/03/2025 14:00;alcista;109.144;TP;10.0
+18/03/2025 14:45;bajista;109.169;TP;10.0
+18/03/2025 15:30;alcista;109.175;TP;10.0
+18/03/2025 17:40;bajista;109.442;sin resultado;0.0
+18/03/2025 17:55;alcista;109.499;sin resultado;0.0
+18/03/2025 18:10;bajista;109.455;sin resultado;0.0
+18/03/2025 18:55;alcista;10.944;sin resultado;0.0
+18/03/2025 19:40;bajista;109.435;sin resultado;0.0
+18/03/2025 19:55;alcista;109.461;sin resultado;0.0
+18/03/2025 20:25;bajista;109.438;sin resultado;0.0
+18/03/2025 22:10;alcista;109.455;sin resultado;0.0
+18/03/2025 22:25;bajista;109.417;sin resultado;0.0
+18/03/2025 22:55;alcista;109.419;sin resultado;0.0
+18/03/2025 23:25;bajista;109.416;sin resultado;0.0
+18/03/2025 23:40;alcista;109.425;SL;-10.0
+18/03/2025 23:50;bajista;109.404;sin resultado;0.0
+19/03/2025 1:05;alcista;10.936;sin resultado;0.0
+19/03/2025 1:35;bajista;109.341;SL;-10.0
+19/03/2025 1:40;alcista;109.356;sin resultado;0.0
+19/03/2025 2:50;bajista;109.412;sin resultado;0.0
+19/03/2025 3:55;alcista;109.382;SL;-10.0
+19/03/2025 4:00;bajista;109.342;sin resultado;0.0
+19/03/2025 5:05;alcista;109.327;sin resultado;0.0
+19/03/2025 5:40;bajista;109.322;TP;10.0
+19/03/2025 5:45;alcista;109.344;SL;-10.0
+19/03/2025 5:50;bajista;109.314;sin resultado;0.0
+19/03/2025 7:55;alcista;108.927;TP;10.0
+19/03/2025 9:00;bajista;109.008;sin resultado;0.0
+19/03/2025 9:30;alcista;109.064;SL;-10.0
+19/03/2025 9:55;bajista;109.025;TP;10.0
+19/03/2025 10:25;alcista;10.901.399.999.999.900;SL;-10.0
+19/03/2025 10:35;bajista;108.934;SL;-10.0
+19/03/2025 11:30;alcista;109.037;TP;10.0
+19/03/2025 12:25;bajista;10.907.499.999.999.900;TP;10.0
+19/03/2025 13:40;alcista;108.992;sin resultado;0.0
+19/03/2025 13:50;bajista;108.938;TP;10.0
+19/03/2025 14:00;alcista;108.994;SL;-10.0
+19/03/2025 14:30;bajista;108.967;TP;10.0
+19/03/2025 15:20;alcista;108.859;SL;-10.0
+19/03/2025 15:30;bajista;108.826;sin resultado;0.0
+19/03/2025 16:15;alcista;108.844;SL;-10.0
+19/03/2025 17:05;bajista;108.777;TP;10.0
+19/03/2025 18:00;alcista;108.914;SL;-10.0
+19/03/2025 19:20;bajista;108.881;SL;-10.0
+19/03/2025 19:40;alcista;108.973;sin resultado;0.0
+19/03/2025 21:05;bajista;109.022;sin resultado;0.0
+19/03/2025 21:20;alcista;109.026;TP;10.0
+19/03/2025 22:35;bajista;109.093;sin resultado;0.0
+19/03/2025 23:35;alcista;109.085;sin resultado;0.0
+20/03/2025 0:20;bajista;109.112;sin resultado;0.0
+20/03/2025 0:40;alcista;109.131;sin resultado;0.0
+20/03/2025 1:00;bajista;109.077;sin resultado;0.0
+20/03/2025 1:30;alcista;109.084;sin resultado;0.0
+20/03/2025 1:55;bajista;109.059;SL;-10.0
+20/03/2025 2:00;alcista;109.084;sin resultado;0.0
+20/03/2025 2:45;bajista;109.101;sin resultado;0.0
+20/03/2025 3:20;alcista;109.103;sin resultado;0.0
+20/03/2025 3:45;bajista;109.078;sin resultado;0.0
+20/03/2025 5:55;alcista;108.956;sin resultado;0.0
+20/03/2025 6:25;bajista;108.939;TP;10.0
+20/03/2025 7:55;alcista;108.794;SL;-10.0
+20/03/2025 8:20;bajista;10.872;TP;10.0
+20/03/2025 9:45;alcista;108.513;SL;-10.0
+20/03/2025 10:10;bajista;108.419;SL;-10.0
+20/03/2025 10:45;alcista;108.504;SL;-10.0
+20/03/2025 11:00;bajista;108.453;sin resultado;0.0
+20/03/2025 11:35;alcista;108.467;SL;-10.0
+20/03/2025 12:20;bajista;108.464;TP;10.0
+20/03/2025 13:55;alcista;108.255;TP;10.0
+20/03/2025 14:25;bajista;108.272;SL;-10.0
+20/03/2025 15:10;alcista;108.308;TP;10.0
+20/03/2025 15:40;bajista;108.372;SL;-10.0
+20/03/2025 15:50;alcista;10.848;sin resultado;0.0
+20/03/2025 16:35;bajista;108.468;sin resultado;0.0
+20/03/2025 16:40;alcista;108.501;SL;-10.0
+20/03/2025 17:05;bajista;108.457;sin resultado;0.0
+20/03/2025 17:50;alcista;108.443;sin resultado;0.0
+20/03/2025 19:45;bajista;10.852;sin resultado;0.0
+20/03/2025 19:55;alcista;108.531;sin resultado;0.0
+20/03/2025 20:45;bajista;108.527;sin resultado;0.0
+20/03/2025 21:15;alcista;108.538;sin resultado;0.0
+20/03/2025 23:25;bajista;108.569;sin resultado;0.0
+20/03/2025 23:50;alcista;108.572;sin resultado;0.0
+20/03/2025 23:55;bajista;108.533;sin resultado;0.0
+21/03/2025 0:35;alcista;10.855.299.999.999.900;sin resultado;0.0
+21/03/2025 0:50;bajista;108.525;sin resultado;0.0
+21/03/2025 1:20;alcista;108.548;sin resultado;0.0
+21/03/2025 1:45;bajista;108.503;sin resultado;0.0
+21/03/2025 3:10;alcista;108.457;SL;-10.0
+21/03/2025 3:20;bajista;108.417;TP;10.0
+21/03/2025 5:55;alcista;108.287;sin resultado;0.0
+21/03/2025 7:00;bajista;108.285;SL;-10.0
+21/03/2025 7:10;alcista;10.836.999.999.999.900;sin resultado;0.0
+21/03/2025 8:05;bajista;108.314;sin resultado;0.0
+21/03/2025 8:45;alcista;108.324;sin resultado;0.0
+21/03/2025 9:40;bajista;108.272;SL;-10.0
+21/03/2025 10:10;alcista;108.366;SL;-10.0
+21/03/2025 10:30;bajista;108.276;SL;-10.0
+21/03/2025 10:50;alcista;10.832.600.000.000.000;TP;10.0
+21/03/2025 12:20;bajista;108.494;TP;10.0
+21/03/2025 13:25;alcista;108.319;sin resultado;0.0
+21/03/2025 13:45;bajista;108.284;sin resultado;0.0
+21/03/2025 15:20;alcista;108.273;SL;-10.0
+21/03/2025 15:40;bajista;108.257;TP;10.0
+21/03/2025 16:10;alcista;108.114;TP;10.0
+21/03/2025 17:00;bajista;108.154;TP;10.0
+21/03/2025 17:35;alcista;108.169;sin resultado;0.0
+21/03/2025 18:05;bajista;108.153;SL;-10.0
+21/03/2025 18:35;alcista;108.242;sin resultado;0.0
+21/03/2025 19:10;bajista;108.208;sin resultado;0.0
+23/03/2025 21:20;alcista;108.142;TP;10.0
+23/03/2025 22:35;bajista;108.183;sin resultado;0.0
+23/03/2025 23:05;alcista;108.206;TP;10.0
+24/03/2025 0:35;bajista;108.366;TP;10.0
+24/03/2025 2:00;alcista;108.306;sin resultado;0.0
+24/03/2025 2:45;bajista;108.269;sin resultado;0.0
+24/03/2025 3:15;alcista;108.283;SL;-10.0
+24/03/2025 3:40;bajista;10.826;sin resultado;0.0
+24/03/2025 4:40;alcista;108.232;sin resultado;0.0
+24/03/2025 5:50;bajista;108.249;SL;-10.0
+24/03/2025 5:55;alcista;108.292;TP;10.0
+24/03/2025 7:00;bajista;108.407;sin resultado;0.0
+24/03/2025 7:05;alcista;10.843;SL;-10.0
+24/03/2025 7:35;bajista;108.354;SL;-10.0
+24/03/2025 8:15;alcista;108.462;TP;10.0
+24/03/2025 8:50;bajista;108.407;TP;10.0
+24/03/2025 9:50;alcista;108.439;TP;10.0
+24/03/2025 10:55;bajista;108.481;TP;10.0
+24/03/2025 12:45;alcista;108.292;SL;-10.0
+24/03/2025 13:05;bajista;108.239;TP;10.0
+24/03/2025 14:15;alcista;108.131;SL;-10.0
+24/03/2025 14:35;bajista;108.033;TP;10.0
+24/03/2025 15:40;alcista;108.023;SL;-10.0
+24/03/2025 15:45;bajista;107.945;SL;-10.0
+24/03/2025 16:05;alcista;108.066;SL;-10.0
+24/03/2025 16:30;bajista;107.945;TP;10.0
+24/03/2025 17:00;alcista;107.931;sin resultado;0.0
+24/03/2025 17:35;bajista;107.884;SL;-10.0
+24/03/2025 18:15;alcista;107.919;TP;10.0
+24/03/2025 19:00;bajista;108.024;sin resultado;0.0
+24/03/2025 20:05;alcista;108.028;sin resultado;0.0
+24/03/2025 20:35;bajista;108.017;sin resultado;0.0
+24/03/2025 21:45;alcista;107.994;sin resultado;0.0
+24/03/2025 22:10;bajista;107.971;sin resultado;0.0
+24/03/2025 22:30;alcista;108.009;sin resultado;0.0
+25/03/2025 0:00;bajista;107.991;sin resultado;0.0
+25/03/2025 0:45;alcista;107.981;TP;10.0
+25/03/2025 1:40;bajista;108.045;sin resultado;0.0
+25/03/2025 1:45;alcista;10.805;sin resultado;0.0
+25/03/2025 1:50;bajista;108.045;TP;10.0
+25/03/2025 3:10;alcista;108.028;sin resultado;0.0
+25/03/2025 3:30;bajista;10.801;sin resultado;0.0
+25/03/2025 3:55;alcista;10.803;sin resultado;0.0
+25/03/2025 4:40;bajista;108.039;sin resultado;0.0
+25/03/2025 8:55;alcista;107.904;TP;10.0
+25/03/2025 11:10;bajista;108.123;SL;-10.0
+25/03/2025 11:20;alcista;108.201;sin resultado;0.0
+25/03/2025 12:00;bajista;108.172;SL;-10.0
+25/03/2025 12:25;alcista;108.211;sin resultado;0.0
+25/03/2025 12:35;bajista;108.194;SL;-10.0
+25/03/2025 12:40;alcista;108.231;sin resultado;0.0
+25/03/2025 13:05;bajista;108.249;TP;10.0
+25/03/2025 14:40;alcista;108.136;sin resultado;0.0
+25/03/2025 15:40;bajista;108.091;TP;10.0
+25/03/2025 16:15;alcista;108.085;sin resultado;0.0
+25/03/2025 16:55;bajista;10.806.499.999.999.900;SL;-10.0
+25/03/2025 17:00;alcista;108.115;sin resultado;0.0
+25/03/2025 17:25;bajista;108.091;sin resultado;0.0
+25/03/2025 19:40;alcista;107.984;sin resultado;0.0
+25/03/2025 20:00;bajista;107.935;sin resultado;0.0
+25/03/2025 21:45;alcista;107.914;sin resultado;0.0
+25/03/2025 22:30;bajista;107.906;sin resultado;0.0
+25/03/2025 23:55;alcista;107.889;sin resultado;0.0
+26/03/2025 0:35;bajista;107.873;sin resultado;0.0
+26/03/2025 1:20;alcista;107.852;TP;10.0
+26/03/2025 2:15;bajista;107.911;sin resultado;0.0
+26/03/2025 2:25;alcista;107.942;sin resultado;0.0
+26/03/2025 3:10;bajista;10.793;sin resultado;0.0
+26/03/2025 5:30;alcista;107.847;sin resultado;0.0
+26/03/2025 6:15;bajista;107.829;sin resultado;0.0
+26/03/2025 6:25;alcista;107.874;sin resultado;0.0
+26/03/2025 6:45;bajista;107.828;sin resultado;0.0
+26/03/2025 6:55;alcista;10.787;sin resultado;0.0
+26/03/2025 7:50;bajista;107.836;SL;-10.0
+26/03/2025 8:00;alcista;1.079;sin resultado;0.0
+26/03/2025 9:50;bajista;107.961;sin resultado;0.0
+26/03/2025 10:10;alcista;1.08;SL;-10.0
+26/03/2025 10:30;bajista;107.888;sin resultado;0.0
+26/03/2025 11:10;alcista;107.926;SL;-10.0
+26/03/2025 11:55;bajista;107.923;TP;10.0
+26/03/2025 12:25;alcista;107.915;SL;-10.0
+26/03/2025 12:35;bajista;10.785;TP;10.0
+26/03/2025 13:50;alcista;107.753;TP;10.0
+26/03/2025 15:00;bajista;107.907;TP;10.0
+26/03/2025 16:15;alcista;107.874;SL;-10.0
+26/03/2025 17:05;bajista;107.849;TP;10.0
+26/03/2025 19:45;alcista;107.518;sin resultado;0.0
+26/03/2025 20:45;bajista;107.513;TP;10.0
+26/03/2025 21:00;alcista;107.553;SL;-10.0
+26/03/2025 21:15;bajista;107.458;TP;10.0
+26/03/2025 21:45;alcista;10.741;sin resultado;0.0
+26/03/2025 22:10;bajista;107.365;sin resultado;0.0
+26/03/2025 22:45;alcista;107.394;sin resultado;0.0
+26/03/2025 23:05;bajista;107.359;SL;-10.0
+26/03/2025 23:10;alcista;107.395;TP;10.0
+27/03/2025 1:40;bajista;107.629;SL;-10.0
+27/03/2025 1:45;alcista;107.674;TP;10.0
+27/03/2025 2:55;bajista;107.759;sin resultado;0.0
+27/03/2025 3:45;alcista;107.771;sin resultado;0.0
+27/03/2025 4:45;bajista;107.803;sin resultado;0.0
+27/03/2025 6:15;alcista;107.749;SL;-10.0
+27/03/2025 7:00;bajista;10.766.499.999.999.900;TP;10.0
+27/03/2025 7:45;alcista;107.652;TP;10.0
+27/03/2025 8:05;bajista;107.594;SL;-10.0
+27/03/2025 8:15;alcista;107.651;TP;10.0
+27/03/2025 8:25;bajista;107.581;SL;-10.0
+27/03/2025 8:30;alcista;107.646;TP;10.0
+27/03/2025 9:15;bajista;107.722;TP;10.0
+27/03/2025 9:55;alcista;107.708;TP;10.0
+27/03/2025 11:25;bajista;107.846;sin resultado;0.0
+27/03/2025 12:00;alcista;107.871;TP;10.0
+27/03/2025 12:50;bajista;107.882;TP;10.0
+27/03/2025 14:45;alcista;10.788;TP;10.0
+27/03/2025 16:00;bajista;107.991;sin resultado;0.0
+27/03/2025 17:00;alcista;107.996;SL;-10.0
+27/03/2025 17:30;bajista;107.981;sin resultado;0.0
+27/03/2025 18:15;alcista;107.952;sin resultado;0.0
+27/03/2025 18:50;bajista;107.927;sin resultado;0.0
+27/03/2025 19:10;alcista;107.959;sin resultado;0.0
+27/03/2025 19:55;bajista;107.948;sin resultado;0.0
+27/03/2025 20:15;alcista;107.978;sin resultado;0.0
+27/03/2025 21:10;bajista;107.975;sin resultado;0.0
+27/03/2025 22:00;alcista;107.977;sin resultado;0.0
+27/03/2025 22:10;bajista;107.959;sin resultado;0.0
+27/03/2025 22:30;alcista;10.798;sin resultado;0.0
+27/03/2025 22:55;bajista;107.961;sin resultado;0.0
+27/03/2025 23:10;alcista;10.798;sin resultado;0.0
+28/03/2025 0:00;bajista;107.973;sin resultado;0.0
+28/03/2025 0:55;alcista;10.795;sin resultado;0.0
+28/03/2025 1:50;bajista;107.931;sin resultado;0.0
+28/03/2025 2:20;alcista;107.958;sin resultado;0.0
+28/03/2025 2:30;bajista;107.933;sin resultado;0.0
+28/03/2025 2:55;alcista;107.947;sin resultado;0.0
+28/03/2025 3:25;bajista;107.931;sin resultado;0.0
+28/03/2025 5:00;alcista;107.901;sin resultado;0.0
+28/03/2025 5:10;bajista;10.788;sin resultado;0.0
+28/03/2025 5:35;alcista;107.903;sin resultado;0.0
+28/03/2025 5:45;bajista;107.873;sin resultado;0.0
+28/03/2025 5:55;alcista;107.908;sin resultado;0.0
+28/03/2025 6:10;bajista;10.787;sin resultado;0.0
+28/03/2025 6:40;alcista;107.872;TP;10.0
+28/03/2025 7:00;bajista;10.785;SL;-10.0
+28/03/2025 7:05;alcista;107.887;TP;10.0
+28/03/2025 7:45;bajista;107.897;TP;10.0
+28/03/2025 9:40;alcista;107.786;SL;-10.0
+28/03/2025 10:00;bajista;107.713;sin resultado;0.0
+28/03/2025 10:20;alcista;107.756;SL;-10.0
+28/03/2025 10:50;bajista;107.738;sin resultado;0.0
+28/03/2025 11:25;alcista;107.711;sin resultado;0.0
+28/03/2025 12:00;bajista;107.669;SL;-10.0
+28/03/2025 12:20;alcista;107.719;TP;10.0
+28/03/2025 13:40;bajista;108.033;SL;-10.0
+28/03/2025 13:50;alcista;10.815;TP;10.0
+28/03/2025 14:50;bajista;108.199;SL;-10.0
+28/03/2025 15:00;alcista;108.315;TP;10.0
+28/03/2025 15:45;bajista;108.277;sin resultado;0.0
+28/03/2025 16:20;alcista;108.321;SL;-10.0
+28/03/2025 16:40;bajista;108.274;TP;10.0
+28/03/2025 17:35;alcista;108.257;SL;-10.0
+28/03/2025 18:00;bajista;108.207;sin resultado;0.0
+28/03/2025 18:30;alcista;108.252;sin resultado;0.0
+28/03/2025 19:50;bajista;108.245;SL;-10.0
+28/03/2025 20:05;alcista;108.267;sin resultado;0.0
+28/03/2025 20:50;bajista;108.304;TP;10.0
+30/03/2025 21:20;alcista;108.293;SL;-10.0
+30/03/2025 21:30;bajista;108.218;TP;10.0
+30/03/2025 22:30;alcista;108.148;TP;10.0
+30/03/2025 23:15;bajista;108.196;SL;-10.0
+30/03/2025 23:40;alcista;108.227;TP;10.0
+31/03/2025 1:45;bajista;108.375;sin resultado;0.0
+31/03/2025 2:20;alcista;108.353;TP;10.0
+31/03/2025 2:55;bajista;108.404;sin resultado;0.0
+31/03/2025 4:40;alcista;108.337;sin resultado;0.0
+31/03/2025 5:00;bajista;10.832;SL;-10.0
+31/03/2025 5:15;alcista;108.367;SL;-10.0
+31/03/2025 5:55;bajista;108.343;SL;-10.0
+31/03/2025 6:30;alcista;108.316;TP;10.0
+31/03/2025 7:20;bajista;108.271;TP;10.0
+31/03/2025 7:55;alcista;108.317;SL;-10.0
+31/03/2025 8:10;bajista;108.226;TP;10.0
+31/03/2025 8:40;alcista;108.221;sin resultado;0.0
+31/03/2025 9:25;bajista;108.262;TP;10.0
+31/03/2025 10:30;alcista;108.167;TP;10.0
+31/03/2025 10:45;bajista;108.121;SL;-10.0
+31/03/2025 10:50;alcista;108.172;TP;10.0
+31/03/2025 11:25;bajista;108.184;sin resultado;0.0
+31/03/2025 11:35;alcista;10.823;SL;-10.0
+31/03/2025 11:55;bajista;108.198;TP;10.0
+31/03/2025 13:10;alcista;108.127;SL;-10.0
+31/03/2025 13:50;bajista;108.085;TP;10.0
+31/03/2025 14:50;alcista;107.982;TP;10.0
+31/03/2025 15:40;bajista;108.011;TP;10.0
+31/03/2025 16:25;alcista;107.994;TP;10.0
+31/03/2025 17:05;bajista;108.081;sin resultado;0.0
+31/03/2025 17:20;alcista;108.147;sin resultado;0.0
+31/03/2025 18:05;bajista;10.809;sin resultado;0.0
+31/03/2025 18:35;alcista;108.145;sin resultado;0.0
+31/03/2025 19:05;bajista;108.133;sin resultado;0.0
+31/03/2025 19:20;alcista;108.154;sin resultado;0.0
+31/03/2025 19:55;bajista;108.141;sin resultado;0.0
+31/03/2025 20:50;alcista;108.169;sin resultado;0.0
+31/03/2025 22:00;bajista;108.169;sin resultado;0.0
+31/03/2025 22:50;alcista;10.818;sin resultado;0.0
+31/03/2025 23:15;bajista;108.162;sin resultado;0.0
+31/03/2025 23:40;alcista;108.181;sin resultado;0.0
+1/04/2025 0:35;bajista;108.214;sin resultado;0.0
+1/04/2025 0:55;alcista;108.253;sin resultado;0.0
+1/04/2025 1:05;bajista;108.212;sin resultado;0.0
+1/04/2025 1:20;alcista;108.252;sin resultado;0.0
+1/04/2025 1:30;bajista;108.205;sin resultado;0.0
+1/04/2025 2:05;alcista;108.218;sin resultado;0.0
+1/04/2025 2:40;bajista;108.243;sin resultado;0.0
+1/04/2025 3:30;alcista;10.827;sin resultado;0.0
+1/04/2025 4:20;bajista;108.266;TP;10.0
+1/04/2025 4:45;alcista;108.283;SL;-10.0
+1/04/2025 4:55;bajista;108.251;TP;10.0
+1/04/2025 6:50;alcista;108.097;SL;-10.0
+1/04/2025 7:00;bajista;10.805;sin resultado;0.0
+1/04/2025 7:10;alcista;108.109;SL;-10.0
+1/04/2025 7:40;bajista;107.999;SL;-10.0
+1/04/2025 8:05;alcista;108.066;TP;10.0
+1/04/2025 9:35;bajista;108.188;TP;10.0
+1/04/2025 10:25;alcista;108.055;SL;-10.0
+1/04/2025 10:55;bajista;107.982;TP;10.0
+1/04/2025 12:10;alcista;107.877;sin resultado;0.0
+1/04/2025 12:50;bajista;107.852;SL;-10.0
+1/04/2025 13:25;alcista;10.795;SL;-10.0
+1/04/2025 13:50;bajista;107.889;SL;-10.0
+1/04/2025 14:00;alcista;107.985;TP;10.0
+1/04/2025 15:30;bajista;108.011;sin resultado;0.0
+1/04/2025 16:30;alcista;107.991;sin resultado;0.0
+1/04/2025 16:45;bajista;107.936;SL;-10.0
+1/04/2025 16:55;alcista;107.997;sin resultado;0.0
+1/04/2025 17:20;bajista;107.986;sin resultado;0.0
+1/04/2025 19:10;alcista;10.789;sin resultado;0.0
+1/04/2025 19:20;bajista;107.876;sin resultado;0.0
+1/04/2025 19:25;alcista;107.894;sin resultado;0.0
+1/04/2025 19:35;bajista;107.867;sin resultado;0.0
+1/04/2025 19:55;alcista;107.898;TP;10.0
+1/04/2025 20:25;bajista;107.893;SL;-10.0
+1/04/2025 20:50;alcista;107.945;sin resultado;0.0
+1/04/2025 21:15;bajista;107.893;SL;-10.0
+1/04/2025 21:40;alcista;107.942;TP;10.0
+1/04/2025 22:40;bajista;108.007;sin resultado;0.0
+2/04/2025 0:25;alcista;107.918;sin resultado;0.0
+2/04/2025 0:55;bajista;107.904;sin resultado;0.0
+2/04/2025 1:35;alcista;107.891;TP;10.0
+2/04/2025 2:45;bajista;107.944;sin resultado;0.0
+2/04/2025 3:10;alcista;107.991;sin resultado;0.0
+2/04/2025 3:30;bajista;107.977;sin resultado;0.0
+2/04/2025 6:05;alcista;107.903;sin resultado;0.0
+2/04/2025 6:30;bajista;107.921;TP;10.0
+2/04/2025 6:55;alcista;107.929;SL;-10.0
+2/04/2025 7:10;bajista;107.837;SL;-10.0
+2/04/2025 7:30;alcista;107.873;TP;10.0
+2/04/2025 9:25;bajista;107.974;SL;-10.0
+2/04/2025 9:40;alcista;108.041;SL;-10.0
+2/04/2025 10:05;bajista;10.796.999.999.999.900;TP;10.0
+2/04/2025 10:50;alcista;107.952;TP;10.0
+2/04/2025 12:15;bajista;108.006;SL;-10.0
+2/04/2025 12:25;alcista;108.094;TP;10.0
+2/04/2025 13:30;bajista;108.188;SL;-10.0
+2/04/2025 13:50;alcista;108.238;TP;10.0
+2/04/2025 14:15;bajista;10.822;SL;-10.0
+2/04/2025 14:35;alcista;108.292;TP;10.0
+2/04/2025 16:10;bajista;108.596;TP;10.0
+2/04/2025 17:00;alcista;108.578;sin resultado;0.0
+2/04/2025 17:55;bajista;108.518;sin resultado;0.0
+2/04/2025 18:25;alcista;108.549;sin resultado;0.0
+2/04/2025 18:55;bajista;108.541;sin resultado;0.0
+2/04/2025 20:10;alcista;108.852;TP;10.0
+2/04/2025 20:30;bajista;108.396;TP;10.0
+2/04/2025 20:55;alcista;108.507;SL;-10.0
+2/04/2025 21:20;bajista;108.153;SL;-10.0
+2/04/2025 21:50;alcista;10.830.899.999.999.900;SL;-10.0
+2/04/2025 22:15;bajista;108.129;SL;-10.0
+2/04/2025 22:35;alcista;10.826;TP;10.0
+3/04/2025 0:10;bajista;108.905;TP;10.0
+3/04/2025 0:40;alcista;108.995;SL;-10.0
+3/04/2025 1:00;bajista;108.883;SL;-10.0
+3/04/2025 1:15;alcista;108.962;TP;10.0
+3/04/2025 2:45;bajista;109.171;sin resultado;0.0
+3/04/2025 3:20;alcista;109.162;sin resultado;0.0
+3/04/2025 4:00;bajista;109.132;sin resultado;0.0
+3/04/2025 4:30;alcista;109.133;TP;10.0
+3/04/2025 4:45;bajista;10.909;SL;-10.0
+3/04/2025 5:05;alcista;109.133;TP;10.0
+3/04/2025 6:00;bajista;109.461;TP;10.0
+3/04/2025 6:30;alcista;109.641;TP;10.0
+3/04/2025 7:15;bajista;109.707;TP;10.0
+3/04/2025 7:45;alcista;109.651;TP;10.0
+3/04/2025 9:40;bajista;11.028;SL;-10.0
+3/04/2025 9:50;alcista;11.034;TP;10.0
+3/04/2025 10:30;bajista;110.773;TP;10.0
+3/04/2025 11:30;alcista;110.785;SL;-10.0
+3/04/2025 12:20;bajista;110.846;SL;-10.0
+3/04/2025 12:40;alcista;11.091;TP;10.0
+3/04/2025 12:55;bajista;110.816;SL;-10.0
+3/04/2025 13:05;alcista;111.067;TP;10.0
+3/04/2025 13:35;bajista;110.866;SL;-10.0
+3/04/2025 14:10;alcista;110.981;SL;-10.0
+3/04/2025 15:10;bajista;110.922;TP;10.0
+3/04/2025 15:55;alcista;110.506;SL;-10.0
+3/04/2025 16:10;bajista;110.491;TP;10.0
+3/04/2025 16:40;alcista;110.404;SL;-10.0
+3/04/2025 16:45;bajista;110.372;TP;10.0
+3/04/2025 18:05;alcista;110.282;TP;10.0
+3/04/2025 19:05;bajista;110.346;TP;10.0
+3/04/2025 19:55;alcista;110.275;TP;10.0
+3/04/2025 21:20;bajista;110.483;SL;-10.0
+3/04/2025 21:35;alcista;11.050.200.000.000.000;TP;10.0
+3/04/2025 22:50;bajista;110.612;TP;10.0
+4/04/2025 0:35;alcista;110.484;TP;10.0
+4/04/2025 2:55;bajista;110.632;SL;-10.0
+4/04/2025 3:10;alcista;110.695;TP;10.0
+4/04/2025 4:20;bajista;110.896;SL;-10.0
+4/04/2025 5:00;alcista;110.931;TP;10.0
+4/04/2025 5:35;bajista;110.839;TP;10.0
+4/04/2025 8:25;alcista;110.062;SL;-10.0
+4/04/2025 8:35;bajista;109.937;SL;-10.0
+4/04/2025 10:10;alcista;109.869;TP;10.0
+4/04/2025 10:45;bajista;110.337;TP;10.0
+4/04/2025 11:05;alcista;110.461;TP;10.0
+4/04/2025 11:55;bajista;110.601;TP;10.0
+4/04/2025 12:20;alcista;110.796;SL;-10.0
+4/04/2025 12:35;bajista;110.425;TP;10.0
+4/04/2025 13:10;alcista;110.358;TP;10.0
+4/04/2025 13:35;bajista;110.276;TP;10.0
+4/04/2025 15:00;alcista;109.913;SL;-10.0
+4/04/2025 16:15;bajista;109.868;TP;10.0
+4/04/2025 17:45;alcista;109.519;SL;-10.0
+4/04/2025 18:45;bajista;109.569;TP;10.0
+4/04/2025 19:20;alcista;109.458;TP;10.0
+4/04/2025 20:00;bajista;109.496;TP;10.0
+4/04/2025 20:15;alcista;10.952;SL;-10.0
+4/04/2025 20:20;bajista;10.937.000.000.000.000;SL;-10.0
+4/04/2025 20:45;alcista;109.523;TP;10.0
+6/04/2025 21:05;bajista;108.805;SL;-10.0
+6/04/2025 21:25;alcista;10.891;TP;10.0
+6/04/2025 22:40;bajista;109.803;SL;-10.0
+6/04/2025 23:00;alcista;109.869;TP;10.0
+6/04/2025 23:55;bajista;109.825;TP;10.0
+7/04/2025 0:30;alcista;109.588;TP;10.0
+7/04/2025 1:35;bajista;109.609;SL;-10.0
+7/04/2025 1:40;alcista;10.974;SL;-10.0
+7/04/2025 2:00;bajista;109.608;TP;10.0
+7/04/2025 3:00;alcista;10.936;TP;10.0
+7/04/2025 6:25;bajista;110.012;SL;-10.0
+7/04/2025 6:45;alcista;110.188;SL;-10.0
+7/04/2025 7:45;bajista;110.098;TP;10.0
+7/04/2025 8:45;alcista;109.994;SL;-10.0
+7/04/2025 9:05;bajista;109.869;TP;10.0
+7/04/2025 10:00;alcista;109.689;TP;10.0
+7/04/2025 10:45;bajista;1.097;TP;10.0
+7/04/2025 11:50;alcista;109.641;SL;-10.0
+7/04/2025 12:15;bajista;109.557;TP;10.0
+7/04/2025 12:40;alcista;109.718;TP;10.0
+7/04/2025 13:05;bajista;109.698;TP;10.0
+7/04/2025 15:20;alcista;109.256;TP;10.0
+7/04/2025 15:30;bajista;109.042;SL;-10.0
+7/04/2025 15:50;alcista;109.171;SL;-10.0
+7/04/2025 16:05;bajista;109.091;SL;-10.0
+7/04/2025 16:20;alcista;109.199;SL;-10.0
+7/04/2025 16:40;bajista;109.091;SL;-10.0
+7/04/2025 16:50;alcista;109.229;TP;10.0
+7/04/2025 18:20;bajista;109.271;SL;-10.0
+7/04/2025 18:35;alcista;109.388;SL;-10.0
+7/04/2025 18:45;bajista;109.269;SL;-10.0
+7/04/2025 19:20;alcista;109.395;SL;-10.0
+7/04/2025 19:55;bajista;10.916;TP;10.0
+7/04/2025 20:55;alcista;109.066;sin resultado;0.0
+7/04/2025 21:05;bajista;109.037;SL;-10.0
+7/04/2025 21:20;alcista;10.907.499.999.999.900;TP;10.0
+7/04/2025 22:20;bajista;109.099;sin resultado;0.0
+7/04/2025 22:30;alcista;10.913.599.999.999.900;sin resultado;0.0
+7/04/2025 23:05;bajista;109.158;SL;-10.0
+7/04/2025 23:45;alcista;109.162;TP;10.0
+8/04/2025 2:55;bajista;109.711;TP;10.0
+8/04/2025 4:05;alcista;109.662;TP;10.0
+8/04/2025 4:40;bajista;109.727;TP;10.0
+8/04/2025 6:00;alcista;109.718;TP;10.0
+8/04/2025 7:00;bajista;109.733;TP;10.0
+8/04/2025 8:15;alcista;109.426;SL;-10.0
+8/04/2025 8:50;bajista;109.358;TP;10.0
+8/04/2025 9:50;alcista;109.269;SL;-10.0
+8/04/2025 10:10;bajista;10.917;SL;-10.0
+8/04/2025 10:20;alcista;109.242;TP;10.0
+8/04/2025 10:55;bajista;109.276;SL;-10.0
+8/04/2025 11:10;alcista;109.389;SL;-10.0
+8/04/2025 11:35;bajista;109.269;SL;-10.0
+8/04/2025 11:50;alcista;109.378;TP;10.0
+8/04/2025 12:50;bajista;109.534;TP;10.0
+8/04/2025 13:25;alcista;109.548;SL;-10.0
+8/04/2025 13:30;bajista;109.414;TP;10.0
+8/04/2025 15:20;alcista;109.104;SL;-10.0
+8/04/2025 17:35;bajista;109.304;SL;-10.0
+8/04/2025 18:05;alcista;109.408;TP;10.0
+8/04/2025 18:45;bajista;109.495;SL;-10.0
+8/04/2025 19:00;alcista;109.606;TP;10.0
+8/04/2025 19:30;bajista;10.968;TP;10.0
+8/04/2025 20:05;alcista;10.961.400.000.000.000;SL;-10.0
+8/04/2025 20:10;bajista;109.533;TP;10.0
+8/04/2025 20:45;alcista;10.951;sin resultado;0.0
+8/04/2025 21:10;bajista;109.493;SL;-10.0
+8/04/2025 21:30;alcista;109.524;TP;10.0
+8/04/2025 22:55;bajista;109.681;SL;-10.0
+8/04/2025 23:00;alcista;10.976;sin resultado;0.0
+8/04/2025 23:55;bajista;109.776;SL;-10.0
+9/04/2025 0:20;alcista;109.894;TP;10.0
+9/04/2025 1:50;bajista;110.193;sin resultado;0.0
+9/04/2025 3:00;alcista;110.201;TP;10.0
+9/04/2025 3:45;bajista;110.171;SL;-10.0
+9/04/2025 4:05;alcista;110.358;TP;10.0
+9/04/2025 4:45;bajista;110.509;SL;-10.0
+9/04/2025 4:50;alcista;110.602;SL;-10.0
+9/04/2025 5:05;bajista;110.492;TP;10.0
+9/04/2025 5:45;alcista;11.054.599.999.999.900;TP;10.0
+9/04/2025 6:15;bajista;110.513;SL;-10.0
+9/04/2025 6:30;alcista;110.637;SL;-10.0
+9/04/2025 7:10;bajista;110.587;TP;10.0
+9/04/2025 8:20;alcista;110.168;TP;10.0
+9/04/2025 10:20;bajista;110.276;SL;-10.0
+9/04/2025 10:40;alcista;110.396;TP;10.0
+9/04/2025 11:50;bajista;11.036;SL;-10.0
+9/04/2025 12:10;alcista;1.105;TP;10.0
+9/04/2025 13:00;bajista;110.659;SL;-10.0
+9/04/2025 13:20;alcista;110.786;SL;-10.0
+9/04/2025 13:30;bajista;110.601;TP;10.0
+9/04/2025 15:00;alcista;11.043;TP;10.0
+9/04/2025 15:45;bajista;110.531;TP;10.0
+9/04/2025 16:35;alcista;110.369;SL;-10.0
+9/04/2025 16:50;bajista;11.024;TP;10.0
+9/04/2025 17:40;alcista;110.031;TP;10.0
+9/04/2025 18:00;bajista;109.444;TP;10.0
+9/04/2025 18:30;alcista;109.577;TP;10.0
+9/04/2025 19:10;bajista;109.586;SL;-10.0
+9/04/2025 20:10;alcista;10.947;TP;10.0
+9/04/2025 21:50;bajista;10.949.200.000.000.000;SL;-10.0
+9/04/2025 22:00;alcista;109.595;SL;-10.0
+9/04/2025 22:50;bajista;109.556;TP;10.0
+9/04/2025 23:55;alcista;109.511;TP;10.0
+10/04/2025 1:10;bajista;109.811;TP;10.0
+10/04/2025 1:20;alcista;109.854;SL;-10.0
+10/04/2025 1:30;bajista;109.801;TP;10.0
+10/04/2025 2:25;alcista;109.674;TP;10.0
+10/04/2025 2:40;bajista;109.643;SL;-10.0
+10/04/2025 2:55;alcista;109.718;TP;10.0
+10/04/2025 3:35;bajista;109.796;sin resultado;0.0
+10/04/2025 4:20;alcista;109.834;sin resultado;0.0
+10/04/2025 4:40;bajista;10.979.700.000.000.000;SL;-10.0
+10/04/2025 5:05;alcista;109.829;TP;10.0
+10/04/2025 5:50;bajista;109.815;TP;10.0
+10/04/2025 6:40;alcista;10.977.999.999.999.900;SL;-10.0
+10/04/2025 6:50;bajista;109.647;SL;-10.0
+10/04/2025 6:55;alcista;109.829;SL;-10.0
+10/04/2025 9:35;bajista;110.414;SL;-10.0
+10/04/2025 9:50;alcista;110.486;TP;10.0
+10/04/2025 11:20;bajista;110.724;SL;-10.0
+10/04/2025 12:00;alcista;110.753;TP;10.0
+10/04/2025 12:50;bajista;111.097;TP;10.0
+10/04/2025 13:15;alcista;111.193;TP;10.0
+10/04/2025 16:00;bajista;111.883;TP;10.0
+10/04/2025 16:20;alcista;112.001;SL;-10.0
+10/04/2025 16:30;bajista;111.836;SL;-10.0
+10/04/2025 16:50;alcista;111.996;SL;-10.0
+10/04/2025 17:00;bajista;111.838;TP;10.0
+10/04/2025 17:30;alcista;11.191.200.000.000.000;TP;10.0
+10/04/2025 18:55;bajista;112.153;TP;10.0
+10/04/2025 19:40;alcista;111.745;TP;10.0
+10/04/2025 20:15;bajista;111.936;TP;10.0
+10/04/2025 20:50;alcista;112.016;SL;-10.0
+10/04/2025 21:25;bajista;111.877;SL;-10.0
+10/04/2025 21:50;alcista;111.946;SL;-10.0
+10/04/2025 21:55;bajista;111.822;SL;-10.0
+10/04/2025 22:00;alcista;112.031;TP;10.0
+10/04/2025 23:15;bajista;112.173;SL;-10.0
+10/04/2025 23:25;alcista;112.288;TP;10.0
+11/04/2025 0:50;bajista;113.076;TP;10.0
+11/04/2025 1:25;alcista;113.117;SL;-10.0
+11/04/2025 1:45;bajista;112.894;SL;-10.0
+11/04/2025 2:00;alcista;113.163;SL;-10.0
+11/04/2025 2:30;bajista;113.053;TP;10.0
+11/04/2025 3:05;alcista;113.073;TP;10.0
+11/04/2025 4:05;bajista;113.267;TP;10.0
+11/04/2025 4:45;alcista;113.228;SL;-10.0
+11/04/2025 5:00;bajista;113.037;TP;10.0
+11/04/2025 5:20;alcista;113.038;SL;-10.0
+11/04/2025 5:25;bajista;113.005;TP;10.0
+11/04/2025 6:40;alcista;112.646;TP;10.0
+11/04/2025 9:05;bajista;113.961;TP;10.0
+11/04/2025 9:45;alcista;114.123;SL;-10.0
+11/04/2025 9:55;bajista;113.855;TP;10.0
+11/04/2025 11:05;alcista;113.586;SL;-10.0
+11/04/2025 11:40;bajista;113.367;SL;-10.0
+11/04/2025 12:15;alcista;113.598;SL;-10.0
+11/04/2025 13:35;bajista;11.344.400.000.000.000;SL;-10.0
+11/04/2025 14:05;alcista;113.709;TP;10.0
+11/04/2025 14:30;bajista;113.461;SL;-10.0
+11/04/2025 15:45;alcista;113.407;SL;-10.0
+11/04/2025 16:00;bajista;113.181;TP;10.0
+11/04/2025 16:40;alcista;112.945;TP;10.0
+11/04/2025 17:25;bajista;113.111;SL;-10.0
+11/04/2025 17:35;alcista;113.251;SL;-10.0
+11/04/2025 17:45;bajista;113.057;TP;10.0
+11/04/2025 18:25;alcista;113.098;TP;10.0
+11/04/2025 18:50;bajista;113.062;SL;-10.0
+11/04/2025 19:00;alcista;113.182;TP;10.0
+13/04/2025 21:05;bajista;113.152;SL;-10.0
+13/04/2025 21:25;alcista;113.201;TP;10.0
+13/04/2025 21:35;bajista;113.189;SL;-10.0
+13/04/2025 22:00;alcista;113.289;TP;10.0
+13/04/2025 22:50;bajista;113.357;TP;10.0
+13/04/2025 23:15;alcista;113.378;SL;-10.0
+13/04/2025 23:25;bajista;113.284;SL;-10.0
+13/04/2025 23:40;alcista;113.399;TP;10.0
+14/04/2025 0:45;bajista;11.356.600.000.000.000;SL;-10.0
+14/04/2025 1:00;alcista;113.701;TP;10.0
+14/04/2025 1:50;bajista;113.866;SL;-10.0
+14/04/2025 2:10;alcista;11.400.000.000.000.000;SL;-10.0
+14/04/2025 2:25;bajista;113.892;TP;10.0
+14/04/2025 3:55;alcista;113.716;TP;10.0
+14/04/2025 4:40;bajista;113.717;TP;10.0
+14/04/2025 5:25;alcista;113.777;SL;-10.0
+14/04/2025 7:10;bajista;114.095;TP;10.0
+14/04/2025 8:15;alcista;114.055;SL;-10.0
+14/04/2025 8:35;bajista;11.386;SL;-10.0
+14/04/2025 9:00;alcista;113.995;SL;-10.0
+14/04/2025 9:30;bajista;113.944;TP;10.0
+14/04/2025 10:30;alcista;113.874;TP;10.0
+14/04/2025 11:55;bajista;113.838;TP;10.0
+14/04/2025 13:40;alcista;113.248;TP;10.0
+14/04/2025 14:00;bajista;113.222;SL;-10.0
+14/04/2025 14:05;alcista;113.284;TP;10.0
+14/04/2025 15:20;bajista;11.359;SL;-10.0
+14/04/2025 15:45;alcista;113.769;SL;-10.0
+14/04/2025 15:50;bajista;113.626;TP;10.0
+14/04/2025 17:10;alcista;113.427;SL;-10.0
+14/04/2025 17:45;bajista;1.133;SL;-10.0
+14/04/2025 18:00;alcista;113.476;sin resultado;0.0
+14/04/2025 18:40;bajista;113.449;SL;-10.0
+14/04/2025 18:55;alcista;113.544;TP;10.0
+14/04/2025 20:00;bajista;113.499;sin resultado;0.0
+14/04/2025 21:25;alcista;113.467;TP;10.0
+14/04/2025 21:55;bajista;11.351.499.999.999.900;sin resultado;0.0
+14/04/2025 22:00;alcista;113.586;SL;-10.0
+14/04/2025 22:05;bajista;1.135;sin resultado;0.0
+14/04/2025 22:30;alcista;113.569;SL;-10.0
+14/04/2025 23:00;bajista;113.485;TP;10.0
+15/04/2025 0:55;alcista;113.286;SL;-10.0
+15/04/2025 1:35;bajista;113.165;SL;-10.0
+15/04/2025 1:55;alcista;113.244;TP;10.0
+15/04/2025 4:00;bajista;113.451;SL;-10.0
+15/04/2025 4:20;alcista;113.534;TP;10.0
+15/04/2025 5:05;bajista;113.562;SL;-10.0
+15/04/2025 5:15;alcista;113.644;SL;-10.0
+15/04/2025 5:25;bajista;113.571;TP;10.0
+15/04/2025 7:15;alcista;113.472;SL;-10.0
+15/04/2025 8:35;bajista;11.356.600.000.000.000;TP;10.0
+15/04/2025 9:35;alcista;113.492;SL;-10.0
+15/04/2025 9:45;bajista;113.387;SL;-10.0
+15/04/2025 10:15;alcista;11.343;SL;-10.0
+15/04/2025 10:20;bajista;11.339;SL;-10.0
+15/04/2025 10:25;alcista;11.345.399.999.999.900;SL;-10.0
+15/04/2025 10:30;bajista;11.341.700.000.000.000;TP;10.0
+15/04/2025 10:55;alcista;113.445;SL;-10.0
+15/04/2025 11:10;bajista;113.364;TP;10.0
+15/04/2025 12:10;alcista;11.335;SL;-10.0
+15/04/2025 12:35;bajista;113.244;SL;-10.0
+15/04/2025 13:35;alcista;11.317.599.999.999.900;TP;10.0
+15/04/2025 14:05;bajista;112.995;TP;10.0
+15/04/2025 14:30;alcista;113.195;SL;-10.0
+15/04/2025 15:15;bajista;113.126;TP;10.0
+15/04/2025 16:50;alcista;112.772;SL;-10.0
+15/04/2025 17:45;bajista;112.769;TP;10.0
+15/04/2025 18:25;alcista;112.753;TP;10.0
+15/04/2025 18:35;bajista;112.689;SL;-10.0
+15/04/2025 18:55;alcista;112.734;TP;10.0
+15/04/2025 19:55;bajista;112.823;sin resultado;0.0
+15/04/2025 20:25;alcista;112.875;SL;-10.0

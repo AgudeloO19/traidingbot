@@ -1,0 +1,10 @@
+fecha,tendencia,precio_entrada,resultado,ganancia_usd
+2025-04-15 15:25:00,bajista,1.1308799999999999,TP,10.0
+2025-04-15 16:50:00,alcista,1.12772,SL,-10.0
+2025-04-15 17:45:00,bajista,1.12769,TP,10.0
+2025-04-15 18:25:00,alcista,1.12753,TP,10.0
+2025-04-15 18:35:00,bajista,1.12689,SL,-10.0
+2025-04-15 18:55:00,alcista,1.12734,TP,10.0
+2025-04-15 19:55:00,bajista,1.12823,sin resultado,0.0
+2025-04-15 20:25:00,alcista,1.12875,SL,-10.0
+2025-04-15 20:45:00,bajista,1.12823,sin resultado,0.0
